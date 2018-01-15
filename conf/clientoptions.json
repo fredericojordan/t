@@ -25,7 +25,7 @@
         "clientWindowPositionY": 190,
         "clientWindowScreenName": "\\\\.\\DISPLAY1",
         "clientWindowWidth": 1918,
-        "mapWindowHeight": 873
+        "mapWindowHeight": 875
     },
     "generalOptions": {
         "allowAllToInspectPlayer": true,
@@ -1146,6 +1146,14 @@
                         },
                         {
                             "actionBar": 2,
+                            "actionButton": 19,
+                            "actionsetting": {
+                                "chatText": "exeta con",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 2,
                             "actionButton": 20,
                             "actionsetting": {
                                 "chatText": "exana pox",
@@ -1666,21 +1674,21 @@
                     },
                     {
                         "actionsetting": {
+                            "action": "TriggerActionButton_1.12"
+                        },
+                        "keysequence": "F12"
+                    },
+                    {
+                        "actionsetting": {
                             "action": "TriggerActionButton_1.1"
                         },
-                        "keysequence": "'"
+                        "keysequence": "`"
                     },
                     {
                         "actionsetting": {
                             "action": "TriggerActionButton_2.1"
                         },
-                        "keysequence": "Ctrl+'"
-                    },
-                    {
-                        "actionsetting": {
-                            "action": "TriggerActionButton_1.12"
-                        },
-                        "keysequence": "F12"
+                        "keysequence": "Ctrl+`"
                     }
                 ],
                 "chatOn": [
