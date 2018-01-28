@@ -12,19 +12,19 @@
     },
     "chatOptions": {
         "chatModeOn": false,
-        "lootChannelOpen": false,
+        "lootChannelOpen": true,
         "openChannels": [
         ]
     },
     "clientOptionsVersion": 4,
     "convertedLegacyConfiguration": true,
     "gameWindowOptions": {
-        "clientWindowHeight": 1078,
-        "clientWindowIsMaximized": false,
-        "clientWindowPositionX": 553,
-        "clientWindowPositionY": 190,
+        "clientWindowHeight": 1008,
+        "clientWindowIsMaximized": true,
+        "clientWindowPositionX": 961,
+        "clientWindowPositionY": 31,
         "clientWindowScreenName": "\\\\.\\DISPLAY1",
-        "clientWindowWidth": 1918,
+        "clientWindowWidth": 958,
         "mapWindowHeight": 875
     },
     "generalOptions": {
@@ -32,12 +32,12 @@
         "animatedMouseCursor": true,
         "askBeforeBuyingStoreProducts": true,
         "autoChase": false,
-        "controlScheme": 2,
+        "controlScheme": 0,
         "desiredIsPremiumPanelVisible": false,
         "dragAndDropDefaultActionIsMoveAll": false,
         "highlightMouseTarget": true,
         "keyboardDelay": 250,
-        "lootScheme": "shiftright",
+        "lootScheme": "left",
         "optimizeConnectionStability": true,
         "rotateWithAlt": false,
         "rotateWithCtrl": true,
@@ -49,7 +49,7 @@
     },
     "graphicsOptions": {
         "ambientLight": 25,
-        "antialiasing": false,
+        "antialiasing": true,
         "borderlessWindow": true,
         "frameRateLimit": 50,
         "gameWindowFixedSize": false,
@@ -800,7 +800,8 @@
             "Knight": {
                 "actionBarOptions": {
                     "firstVisibleButtons": {
-                        "1": 0
+                        "1": 0,
+                        "2": 0
                     },
                     "mappings": [
                         {
@@ -869,6 +870,14 @@
                         },
                         {
                             "actionBar": 1,
+                            "actionButton": 10,
+                            "actionsetting": {
+                                "useObject": 12722,
+                                "useType": "SelectUseTarget"
+                            }
+                        },
+                        {
+                            "actionBar": 1,
                             "actionButton": 11,
                             "actionsetting": {
                                 "chatText": "exura infir",
@@ -877,10 +886,10 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 12,
+                            "actionButton": 13,
                             "actionsetting": {
-                                "chatText": "exura",
-                                "sendAutomatically": true
+                                "useObject": 12819,
+                                "useType": "SelectUseTarget"
                             }
                         },
                         {
@@ -1019,7 +1028,7 @@
                             "actionBar": 1,
                             "actionButton": 32,
                             "actionsetting": {
-                                "useObject": 3035,
+                                "useObject": 3043,
                                 "useType": "Use"
                             }
                         },
@@ -1027,8 +1036,40 @@
                             "actionBar": 1,
                             "actionButton": 33,
                             "actionsetting": {
+                                "useObject": 3035,
+                                "useType": "Use"
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 34,
+                            "actionsetting": {
                                 "useObject": 3031,
                                 "useType": "Use"
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 35,
+                            "actionsetting": {
+                                "useObject": 4867,
+                                "useType": "SelectUseTarget"
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 36,
+                            "actionsetting": {
+                                "useObject": 12547,
+                                "useType": "SelectUseTarget"
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 37,
+                            "actionsetting": {
+                                "useObject": 16153,
+                                "useType": "SelectUseTarget"
                             }
                         },
                         {
@@ -1077,6 +1118,14 @@
                             "actionsetting": {
                                 "chatText": "utori san",
                                 "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 2,
+                            "actionButton": 10,
+                            "actionsetting": {
+                                "useObject": 25719,
+                                "useType": "SelectUseTarget"
                             }
                         },
                         {
@@ -1265,6 +1314,22 @@
                                 "useEquipSmartMode": false,
                                 "useObject": 3048,
                                 "useType": "Equip"
+                            }
+                        },
+                        {
+                            "actionBar": 2,
+                            "actionButton": 36,
+                            "actionsetting": {
+                                "useObject": 17858,
+                                "useType": "SelectUseTarget"
+                            }
+                        },
+                        {
+                            "actionBar": 2,
+                            "actionButton": 37,
+                            "actionsetting": {
+                                "useObject": 12306,
+                                "useType": "SelectUseTarget"
                             }
                         }
                     ]
@@ -1560,6 +1625,12 @@
                     },
                     {
                         "actionsetting": {
+                            "action": "TriggerActionButton_1.1"
+                        },
+                        "keysequence": "'"
+                    },
+                    {
+                        "actionsetting": {
                             "action": "TriggerActionButton_1.2"
                         },
                         "keysequence": "1"
@@ -1608,15 +1679,15 @@
                     },
                     {
                         "actionsetting": {
-                            "action": "TriggerActionButton_1.10"
-                        },
-                        "keysequence": "9"
-                    },
-                    {
-                        "actionsetting": {
                             "action": "TriggerActionButton_1.11"
                         },
                         "keysequence": "0"
+                    },
+                    {
+                        "actionsetting": {
+                            "action": "TriggerActionButton_2.1"
+                        },
+                        "keysequence": "Ctrl+'"
                     },
                     {
                         "actionsetting": {
@@ -1674,21 +1745,27 @@
                     },
                     {
                         "actionsetting": {
+                            "action": "TriggerActionButton_2.16"
+                        },
+                        "keysequence": "G"
+                    },
+                    {
+                        "actionsetting": {
+                            "action": "TriggerActionButton_1.13"
+                        },
+                        "keysequence": "V"
+                    },
+                    {
+                        "actionsetting": {
+                            "action": "TriggerActionButton_1.10"
+                        },
+                        "keysequence": "B"
+                    },
+                    {
+                        "actionsetting": {
                             "action": "TriggerActionButton_1.12"
                         },
                         "keysequence": "F12"
-                    },
-                    {
-                        "actionsetting": {
-                            "action": "TriggerActionButton_1.1"
-                        },
-                        "keysequence": "`"
-                    },
-                    {
-                        "actionsetting": {
-                            "action": "TriggerActionButton_2.1"
-                        },
-                        "keysequence": "Ctrl+`"
                     }
                 ],
                 "chatOn": [
