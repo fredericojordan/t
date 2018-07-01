@@ -3,20 +3,17 @@
         "chatModeOn": false,
         "lootChannelOpen": true,
         "openChannels": [
-            3,
-            4,
-            7
         ]
     },
     "clientOptionsVersion": 6,
     "clientWindowOptions": {
-        "clientWindowHeight": 1008,
+        "clientWindowHeight": 1061,
         "clientWindowIsBorderless": true,
         "clientWindowIsMaximized": true,
-        "clientWindowPositionX": 718,
-        "clientWindowPositionY": 47,
+        "clientWindowPositionX": -115,
+        "clientWindowPositionY": 56,
         "clientWindowScreenName": "\\\\.\\DISPLAY1",
-        "clientWindowWidth": 1703
+        "clientWindowWidth": 1918
     },
     "convertedLegacyConfiguration": true,
     "hotkeyOptions": {
@@ -2820,7 +2817,7 @@
                             "actionBar": 1,
                             "actionButton": 5,
                             "actionsetting": {
-                                "chatText": "exura sio Sireck",
+                                "chatText": "exura sio Panoramica",
                                 "sendAutomatically": true
                             }
                         },
@@ -3004,8 +3001,8 @@
                             "actionBar": 1,
                             "actionButton": 11,
                             "actionsetting": {
-                                "useObject": 3191,
-                                "useType": "SelectUseTarget"
+                                "useObject": 3158,
+                                "useType": "UseOnTarget"
                             }
                         },
                         {
@@ -3036,7 +3033,7 @@
                             "actionBar": 1,
                             "actionButton": 9,
                             "actionsetting": {
-                                "chatText": "exori flam",
+                                "chatText": "exevo frigo hur",
                                 "sendAutomatically": true
                             }
                         },
@@ -3052,8 +3049,25 @@
                             "actionBar": 1,
                             "actionButton": 23,
                             "actionsetting": {
+                                "useEquipSmartMode": false,
+                                "useObject": 3006,
+                                "useType": "Equip"
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 27,
+                            "actionsetting": {
                                 "chatText": "adori mas frigo",
                                 "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 28,
+                            "actionsetting": {
+                                "useObject": 3035,
+                                "useType": "Use"
                             }
                         },
                         {
@@ -3084,7 +3098,7 @@
                             "actionBar": 2,
                             "actionButton": 9,
                             "actionsetting": {
-                                "chatText": "exori frigo",
+                                "chatText": "exori flam",
                                 "sendAutomatically": true
                             }
                         },
@@ -3116,8 +3130,8 @@
                             "actionBar": 2,
                             "actionButton": 16,
                             "actionsetting": {
-                                "useObject": 3158,
-                                "useType": "UseOnTarget"
+                                "useObject": 3191,
+                                "useType": "SelectUseTarget"
                             }
                         },
                         {
@@ -3259,14 +3273,6 @@
                         },
                         {
                             "actionBar": 2,
-                            "actionButton": 28,
-                            "actionsetting": {
-                                "chatText": "adevo ina",
-                                "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 2,
                             "actionButton": 27,
                             "actionsetting": {
                                 "chatText": "adeta sio",
@@ -3301,8 +3307,8 @@
                             "actionBar": 2,
                             "actionButton": 23,
                             "actionsetting": {
-                                "useEquipSmartMode": false,
-                                "useObject": 3006,
+                                "useEquipSmartMode": true,
+                                "useObject": 3098,
                                 "useType": "Equip"
                             }
                         },
@@ -3310,7 +3316,7 @@
                             "actionBar": 2,
                             "actionButton": 7,
                             "actionsetting": {
-                                "chatText": "exevo frigo hur",
+                                "chatText": "exori frigo",
                                 "sendAutomatically": true
                             }
                         },
@@ -3335,6 +3341,14 @@
                             "actionButton": 10,
                             "actionsetting": {
                                 "chatText": "exevo gran mas tera",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 2,
+                            "actionButton": 28,
+                            "actionsetting": {
+                                "chatText": "adevo ina",
                                 "sendAutomatically": true
                             }
                         }
@@ -3787,7 +3801,7 @@
                     },
                     {
                         "actionsetting": {
-                            "action": "TriggerActionButton_1.23"
+                            "action": "TriggerActionButton_1.27"
                         },
                         "keysequence": "F1"
                     }
@@ -4890,7 +4904,7 @@
         "lightLevelSeparatorLevel": 0.80000001192092896,
         "linkCopyWarningEnabled": true,
         "lootSchemeIndex": 2,
-        "mapWindowHeight": 875,
+        "mapWindowHeight": 871,
         "mouseAnimatedCursor": true,
         "mouseHighlightTarget": true,
         "mouseSystemCursor": false,
