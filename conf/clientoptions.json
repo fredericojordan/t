@@ -7,13 +7,13 @@
     },
     "clientOptionsVersion": 6,
     "clientWindowOptions": {
-        "clientWindowHeight": 1008,
+        "clientWindowHeight": 1061,
         "clientWindowIsBorderless": true,
         "clientWindowIsMaximized": true,
-        "clientWindowPositionX": 1,
-        "clientWindowPositionY": 31,
+        "clientWindowPositionX": 13,
+        "clientWindowPositionY": 83,
         "clientWindowScreenName": "\\\\.\\DISPLAY1",
-        "clientWindowWidth": 1385
+        "clientWindowWidth": 1918
     },
     "convertedLegacyConfiguration": true,
     "hotkeyOptions": {
@@ -2841,7 +2841,7 @@
                             "actionBar": 1,
                             "actionButton": 7,
                             "actionsetting": {
-                                "chatText": "exori moe ico",
+                                "chatText": "exevo frigo hur",
                                 "sendAutomatically": true
                             }
                         },
@@ -2849,7 +2849,7 @@
                             "actionBar": 1,
                             "actionButton": 9,
                             "actionsetting": {
-                                "chatText": "exori gran tera",
+                                "chatText": "exori flam",
                                 "sendAutomatically": true
                             }
                         },
@@ -2857,7 +2857,7 @@
                             "actionBar": 1,
                             "actionButton": 10,
                             "actionsetting": {
-                                "chatText": "exevo frigo hur",
+                                "chatText": "exori gran tera",
                                 "sendAutomatically": true
                             }
                         },
@@ -2873,7 +2873,7 @@
                             "actionBar": 1,
                             "actionButton": 8,
                             "actionsetting": {
-                                "chatText": "exori gran frigo",
+                                "chatText": "exori moe ico",
                                 "sendAutomatically": true
                             }
                         },
@@ -3105,6 +3105,14 @@
                             }
                         },
                         {
+                            "actionBar": 1,
+                            "actionButton": 43,
+                            "actionsetting": {
+                                "useObject": 3165,
+                                "useType": "SelectUseTarget"
+                            }
+                        },
+                        {
                             "actionBar": 2,
                             "actionButton": 2,
                             "actionsetting": {
@@ -3122,9 +3130,9 @@
                         },
                         {
                             "actionBar": 2,
-                            "actionButton": 12,
+                            "actionButton": 11,
                             "actionsetting": {
-                                "chatText": "exani tera",
+                                "chatText": "exani hur down",
                                 "sendAutomatically": true
                             }
                         },
@@ -3138,33 +3146,9 @@
                         },
                         {
                             "actionBar": 2,
-                            "actionButton": 9,
-                            "actionsetting": {
-                                "chatText": "exori tera",
-                                "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 2,
-                            "actionButton": 8,
-                            "actionsetting": {
-                                "chatText": "exori frigo",
-                                "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 2,
-                            "actionButton": 15,
-                            "actionsetting": {
-                                "useObject": 5942,
-                                "useType": "SelectUseTarget"
-                            }
-                        },
-                        {
-                            "actionBar": 2,
                             "actionButton": 5,
                             "actionsetting": {
-                                "chatText": "exura sio \"Phantom Ezequiel",
+                                "chatText": "exura sio Sireck",
                                 "sendAutomatically": true
                             }
                         },
@@ -3173,22 +3157,6 @@
                             "actionButton": 6,
                             "actionsetting": {
                                 "chatText": "exura sio \"Hunter Warrior",
-                                "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 2,
-                            "actionButton": 11,
-                            "actionsetting": {
-                                "chatText": "exani hur down",
-                                "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 2,
-                            "actionButton": 7,
-                            "actionsetting": {
-                                "chatText": "exori flam",
                                 "sendAutomatically": true
                             }
                         },
@@ -3212,7 +3180,7 @@
                             "actionBar": 2,
                             "actionButton": 40,
                             "actionsetting": {
-                                "useObject": 3175,
+                                "useObject": 3200,
                                 "useType": "SelectUseTarget"
                             }
                         },
@@ -3222,30 +3190,6 @@
                             "actionsetting": {
                                 "useObject": 3158,
                                 "useType": "UseOnTarget"
-                            }
-                        },
-                        {
-                            "actionBar": 2,
-                            "actionButton": 14,
-                            "actionsetting": {
-                                "useObject": 5908,
-                                "useType": "SelectUseTarget"
-                            }
-                        },
-                        {
-                            "actionBar": 2,
-                            "actionButton": 10,
-                            "actionsetting": {
-                                "chatText": "utani hur",
-                                "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 2,
-                            "actionButton": 13,
-                            "actionsetting": {
-                                "useObject": 9596,
-                                "useType": "SelectUseTarget"
                             }
                         },
                         {
@@ -3290,30 +3234,6 @@
                         },
                         {
                             "actionBar": 2,
-                            "actionButton": 16,
-                            "actionsetting": {
-                                "useObject": 3031,
-                                "useType": "Use"
-                            }
-                        },
-                        {
-                            "actionBar": 2,
-                            "actionButton": 17,
-                            "actionsetting": {
-                                "useObject": 3035,
-                                "useType": "Use"
-                            }
-                        },
-                        {
-                            "actionBar": 2,
-                            "actionButton": 18,
-                            "actionsetting": {
-                                "useObject": 3725,
-                                "useType": "Use"
-                            }
-                        },
-                        {
-                            "actionBar": 2,
                             "actionButton": 21,
                             "actionsetting": {
                                 "useEquipSmartMode": true,
@@ -3334,16 +3254,16 @@
                             "actionBar": 2,
                             "actionButton": 23,
                             "actionsetting": {
-                                "useObject": 3155,
-                                "useType": "UseOnTarget"
+                                "useObject": 3175,
+                                "useType": "SelectUseTarget"
                             }
                         },
                         {
                             "actionBar": 2,
                             "actionButton": 24,
                             "actionsetting": {
-                                "useObject": 3191,
-                                "useType": "SelectUseTarget"
+                                "useObject": 3155,
+                                "useType": "UseOnTarget"
                             }
                         },
                         {
@@ -3390,7 +3310,7 @@
                             "actionBar": 2,
                             "actionButton": 25,
                             "actionsetting": {
-                                "useObject": 3200,
+                                "useObject": 3191,
                                 "useType": "SelectUseTarget"
                             }
                         },
@@ -3466,6 +3386,110 @@
                                 "useEquipSmartMode": false,
                                 "useObject": 3006,
                                 "useType": "Equip"
+                            }
+                        },
+                        {
+                            "actionBar": 2,
+                            "actionButton": 19,
+                            "actionsetting": {
+                                "useObject": 3725,
+                                "useType": "Use"
+                            }
+                        },
+                        {
+                            "actionBar": 2,
+                            "actionButton": 18,
+                            "actionsetting": {
+                                "useObject": 3035,
+                                "useType": "Use"
+                            }
+                        },
+                        {
+                            "actionBar": 2,
+                            "actionButton": 17,
+                            "actionsetting": {
+                                "useObject": 3031,
+                                "useType": "Use"
+                            }
+                        },
+                        {
+                            "actionBar": 2,
+                            "actionButton": 16,
+                            "actionsetting": {
+                                "chatText": "exani tera",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 2,
+                            "actionButton": 15,
+                            "actionsetting": {
+                                "useObject": 5942,
+                                "useType": "SelectUseTarget"
+                            }
+                        },
+                        {
+                            "actionBar": 2,
+                            "actionButton": 14,
+                            "actionsetting": {
+                                "useObject": 5908,
+                                "useType": "SelectUseTarget"
+                            }
+                        },
+                        {
+                            "actionBar": 2,
+                            "actionButton": 13,
+                            "actionsetting": {
+                                "useObject": 9596,
+                                "useType": "SelectUseTarget"
+                            }
+                        },
+                        {
+                            "actionBar": 2,
+                            "actionButton": 12,
+                            "actionsetting": {
+                                "chatText": "utani hur",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 2,
+                            "actionButton": 10,
+                            "actionsetting": {
+                                "chatText": "exori frigo",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 2,
+                            "actionButton": 9,
+                            "actionsetting": {
+                                "chatText": "exori tera",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 2,
+                            "actionButton": 8,
+                            "actionsetting": {
+                                "chatText": "exori gran frigo",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 2,
+                            "actionButton": 7,
+                            "actionsetting": {
+                                "chatText": "exura sio Dairen",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 2,
+                            "actionButton": 38,
+                            "actionsetting": {
+                                "useObject": 3202,
+                                "useType": "SelectUseTarget"
                             }
                         }
                     ]
@@ -3605,6 +3629,12 @@
                     },
                     {
                         "actionsetting": {
+                            "action": "TriggerActionButton_2.7"
+                        },
+                        "keysequence": "Ctrl+¨"
+                    },
+                    {
+                        "actionsetting": {
                             "action": "TriggerActionButton_2.13"
                         },
                         "keysequence": "R"
@@ -3632,6 +3662,18 @@
                             "action": "TriggerActionButton_2.24"
                         },
                         "keysequence": "G"
+                    },
+                    {
+                        "actionsetting": {
+                            "action": "TriggerActionButton_2.49"
+                        },
+                        "keysequence": "N"
+                    },
+                    {
+                        "actionsetting": {
+                            "action": "TriggerActionButton_2.50"
+                        },
+                        "keysequence": "B"
                     },
                     {
                         "actionsetting": {
@@ -3926,12 +3968,6 @@
                             "action": "ToggleSpellListWidget"
                         },
                         "keysequence": "Alt+L"
-                    },
-                    {
-                        "actionsetting": {
-                            "action": "TriggerActionButton_2.50"
-                        },
-                        "keysequence": "B"
                     }
                 ],
                 "chatOn": [
@@ -5032,7 +5068,7 @@
         "lightLevelSeparatorLevel": 0.80000001192092896,
         "linkCopyWarningEnabled": true,
         "lootSchemeIndex": 2,
-        "mapWindowHeight": 745,
+        "mapWindowHeight": 819,
         "mouseAnimatedCursor": true,
         "mouseHighlightTarget": true,
         "mouseSystemCursor": false,
@@ -5076,7 +5112,7 @@
     },
     "rendererChangeConfirmationRequired": false,
     "survey": {
-        "id": 495349,
+        "id": 124842,
         "status": 2
     },
     "whiteBlacklistOptions": {
