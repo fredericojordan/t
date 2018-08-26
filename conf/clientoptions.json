@@ -769,17 +769,17 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 11,
+                            "actionButton": 3,
                             "actionsetting": {
-                                "chatText": "exura infir",
+                                "chatText": "exura gran",
                                 "sendAutomatically": true
                             }
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 3,
+                            "actionButton": 11,
                             "actionsetting": {
-                                "chatText": "exura gran",
+                                "chatText": "exura infir",
                                 "sendAutomatically": true
                             }
                         },
@@ -1037,6 +1037,14 @@
                         },
                         {
                             "actionBar": 2,
+                            "actionButton": 2,
+                            "actionsetting": {
+                                "chatText": "exori con",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 2,
                             "actionButton": 10,
                             "actionsetting": {
                                 "useObject": 25719,
@@ -1045,9 +1053,9 @@
                         },
                         {
                             "actionBar": 2,
-                            "actionButton": 2,
+                            "actionButton": 3,
                             "actionsetting": {
-                                "chatText": "exori con",
+                                "chatText": "exori gran con",
                                 "sendAutomatically": true
                             }
                         },
@@ -1061,25 +1069,9 @@
                         },
                         {
                             "actionBar": 2,
-                            "actionButton": 3,
-                            "actionsetting": {
-                                "chatText": "exori gran con",
-                                "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 2,
                             "actionButton": 4,
                             "actionsetting": {
                                 "chatText": "exevo mas san",
-                                "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 2,
-                            "actionButton": 5,
-                            "actionsetting": {
-                                "chatText": "exori san",
                                 "sendAutomatically": true
                             }
                         },
@@ -1089,6 +1081,14 @@
                             "actionsetting": {
                                 "useObject": 646,
                                 "useType": "SelectUseTarget"
+                            }
+                        },
+                        {
+                            "actionBar": 2,
+                            "actionButton": 5,
+                            "actionsetting": {
+                                "chatText": "exori san",
+                                "sendAutomatically": true
                             }
                         },
                         {
@@ -2807,14 +2807,6 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 13,
-                            "actionsetting": {
-                                "chatText": "utura mas sio",
-                                "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 1,
                             "actionButton": 5,
                             "actionsetting": {
                                 "chatText": "utamo vita",
@@ -2823,9 +2815,9 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 12,
+                            "actionButton": 13,
                             "actionsetting": {
-                                "chatText": "exura gran mas res",
+                                "chatText": "utura mas sio",
                                 "sendAutomatically": true
                             }
                         },
@@ -2834,6 +2826,14 @@
                             "actionButton": 4,
                             "actionsetting": {
                                 "chatText": "exura gran",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 12,
+                            "actionsetting": {
+                                "chatText": "exura vita",
                                 "sendAutomatically": true
                             }
                         },
@@ -2921,7 +2921,7 @@
                             "actionBar": 1,
                             "actionButton": 24,
                             "actionsetting": {
-                                "useObject": 3161,
+                                "useObject": 3202,
                                 "useType": "SelectUseTarget"
                             }
                         },
@@ -3001,7 +3001,7 @@
                             "actionBar": 1,
                             "actionButton": 6,
                             "actionsetting": {
-                                "chatText": "exura vita",
+                                "chatText": "exura gran mas res",
                                 "sendAutomatically": true
                             }
                         },
@@ -3122,17 +3122,17 @@
                         },
                         {
                             "actionBar": 2,
-                            "actionButton": 3,
+                            "actionButton": 11,
                             "actionsetting": {
-                                "chatText": "exori vis",
+                                "chatText": "exani hur down",
                                 "sendAutomatically": true
                             }
                         },
                         {
                             "actionBar": 2,
-                            "actionButton": 11,
+                            "actionButton": 3,
                             "actionsetting": {
-                                "chatText": "exani hur down",
+                                "chatText": "exori vis",
                                 "sendAutomatically": true
                             }
                         },
@@ -3254,16 +3254,16 @@
                             "actionBar": 2,
                             "actionButton": 23,
                             "actionsetting": {
-                                "useObject": 3175,
-                                "useType": "SelectUseTarget"
+                                "useObject": 3155,
+                                "useType": "UseOnTarget"
                             }
                         },
                         {
                             "actionBar": 2,
                             "actionButton": 24,
                             "actionsetting": {
-                                "useObject": 3155,
-                                "useType": "UseOnTarget"
+                                "useObject": 3191,
+                                "useType": "SelectUseTarget"
                             }
                         },
                         {
@@ -3310,7 +3310,7 @@
                             "actionBar": 2,
                             "actionButton": 25,
                             "actionsetting": {
-                                "useObject": 3191,
+                                "useObject": 3161,
                                 "useType": "SelectUseTarget"
                             }
                         },
@@ -3488,7 +3488,7 @@
                             "actionBar": 2,
                             "actionButton": 38,
                             "actionsetting": {
-                                "useObject": 3202,
+                                "useObject": 3175,
                                 "useType": "SelectUseTarget"
                             }
                         }
