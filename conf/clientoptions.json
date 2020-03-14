@@ -7,13 +7,38 @@
     },
     "clientOptionsVersion": 6,
     "clientWindowOptions": {
-        "clientWindowHeight": 1008,
+        "clientWindowHeight": 1078,
         "clientWindowIsBorderless": true,
-        "clientWindowIsMaximized": true,
-        "clientWindowPositionX": 503,
-        "clientWindowPositionY": 31,
+        "clientWindowIsMaximized": false,
+        "clientWindowPositionX": 1,
+        "clientWindowPositionY": 1,
         "clientWindowScreenName": "\\\\.\\DISPLAY1",
-        "clientWindowWidth": 1416
+        "clientWindowWidth": 1918
+    },
+    "controlButtonsOptions": {
+        "disabledButtons": [
+        ],
+        "enabledButtons": [
+            "skillsWidget",
+            "battleListWidget",
+            "partyWidget",
+            "vipWidget",
+            "spellListWidget",
+            "questDialog",
+            "questTrackerWidget",
+            "unjustifiedPoinsWidget",
+            "preyDialog",
+            "preyWidget",
+            "rewardWallDialog",
+            "analyticsSelectorWidget",
+            "compendiumDialog",
+            "cyclopediaDialog",
+            "bestiaryTrackerWidget",
+            "friendsDialog",
+            "tournamentLeaderboardWidget",
+            "tournamentDialog",
+            "lenshelpFunction"
+        ]
     },
     "convertedLegacyConfiguration": true,
     "hotkeyOptions": {
@@ -4235,43 +4260,11 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 38,
-                            "actionsetting": {
-                                "chatText": "adori mas frigo",
-                                "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 1,
                             "actionButton": 28,
                             "actionsetting": {
                                 "useEquipSmartMode": false,
                                 "useObject": 3079,
                                 "useType": "Equip"
-                            }
-                        },
-                        {
-                            "actionBar": 1,
-                            "actionButton": 37,
-                            "actionsetting": {
-                                "chatText": "utevo lux",
-                                "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 1,
-                            "actionButton": 23,
-                            "actionsetting": {
-                                "useObject": 3180,
-                                "useType": "SelectUseTarget"
-                            }
-                        },
-                        {
-                            "actionBar": 1,
-                            "actionButton": 25,
-                            "actionsetting": {
-                                "useObject": 7440,
-                                "useType": "Use"
                             }
                         },
                         {
@@ -4286,7 +4279,7 @@
                             "actionBar": 1,
                             "actionButton": 27,
                             "actionsetting": {
-                                "useObject": 3156,
+                                "useObject": 3202,
                                 "useType": "SelectUseTarget"
                             }
                         },
@@ -4296,6 +4289,47 @@
                             "actionsetting": {
                                 "useObject": 238,
                                 "useType": "UseOnYourself"
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 37,
+                            "actionsetting": {
+                                "chatText": "adori mas frigo",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 36,
+                            "actionsetting": {
+                                "useObject": 7440,
+                                "useType": "Use"
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 25,
+                            "actionsetting": {
+                                "useObject": 3180,
+                                "useType": "SelectUseTarget"
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 23,
+                            "actionsetting": {
+                                "useEquipSmartMode": true,
+                                "useObject": 3097,
+                                "useType": "Equip"
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 29,
+                            "actionsetting": {
+                                "useObject": 12077,
+                                "useType": "SelectUseTarget"
                             }
                         },
                         {
@@ -4310,7 +4344,7 @@
                             "actionBar": 2,
                             "actionButton": 3,
                             "actionsetting": {
-                                "chatText": "exori vis",
+                                "chatText": "exori tera",
                                 "sendAutomatically": true
                             }
                         },
@@ -4335,7 +4369,7 @@
                             "actionButton": 21,
                             "actionsetting": {
                                 "useEquipSmartMode": true,
-                                "useObject": 3098,
+                                "useObject": 3053,
                                 "useType": "Equip"
                             }
                         },
@@ -4351,8 +4385,8 @@
                             "actionBar": 2,
                             "actionButton": 22,
                             "actionsetting": {
-                                "useEquipSmartMode": true,
-                                "useObject": 3053,
+                                "useEquipSmartMode": false,
+                                "useObject": 3048,
                                 "useType": "Equip"
                             }
                         },
@@ -4368,7 +4402,7 @@
                             "actionBar": 2,
                             "actionButton": 4,
                             "actionsetting": {
-                                "chatText": "exori gran frigo",
+                                "chatText": "exori vis",
                                 "sendAutomatically": true
                             }
                         },
@@ -4384,7 +4418,7 @@
                             "actionBar": 2,
                             "actionButton": 24,
                             "actionsetting": {
-                                "useObject": 3161,
+                                "useObject": 3175,
                                 "useType": "SelectUseTarget"
                             }
                         },
@@ -4400,8 +4434,8 @@
                             "actionBar": 2,
                             "actionButton": 20,
                             "actionsetting": {
-                                "useEquipSmartMode": false,
-                                "useObject": 3006,
+                                "useEquipSmartMode": true,
+                                "useObject": 3098,
                                 "useType": "Equip"
                             }
                         },
@@ -4410,7 +4444,7 @@
                             "actionButton": 19,
                             "actionsetting": {
                                 "useEquipSmartMode": false,
-                                "useObject": 3048,
+                                "useObject": 3006,
                                 "useType": "Equip"
                             }
                         },
@@ -4474,7 +4508,7 @@
                             "actionBar": 2,
                             "actionButton": 9,
                             "actionsetting": {
-                                "chatText": "exori tera",
+                                "chatText": "exori gran frigo",
                                 "sendAutomatically": true
                             }
                         },
@@ -4482,7 +4516,7 @@
                             "actionBar": 2,
                             "actionButton": 8,
                             "actionsetting": {
-                                "chatText": "exura sio Sireck",
+                                "chatText": "exura sio Dairen",
                                 "sendAutomatically": true
                             }
                         },
@@ -4490,7 +4524,7 @@
                             "actionBar": 2,
                             "actionButton": 7,
                             "actionsetting": {
-                                "chatText": "exura sio Dairen",
+                                "chatText": "exura sio Sireck",
                                 "sendAutomatically": true
                             }
                         },
@@ -4659,7 +4693,7 @@
                             "actionBar": 2,
                             "actionButton": 25,
                             "actionsetting": {
-                                "useObject": 3202,
+                                "useObject": 3161,
                                 "useType": "SelectUseTarget"
                             }
                         },
@@ -4676,6 +4710,30 @@
                             "actionButton": 27,
                             "actionsetting": {
                                 "useObject": 23722,
+                                "useType": "SelectUseTarget"
+                            }
+                        },
+                        {
+                            "actionBar": 2,
+                            "actionButton": 35,
+                            "actionsetting": {
+                                "useObject": 237,
+                                "useType": "UseOnYourself"
+                            }
+                        },
+                        {
+                            "actionBar": 2,
+                            "actionButton": 36,
+                            "actionsetting": {
+                                "chatText": "utevo lux",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 2,
+                            "actionButton": 29,
+                            "actionsetting": {
+                                "useObject": 3156,
                                 "useType": "SelectUseTarget"
                             }
                         }
@@ -4768,12 +4826,6 @@
                     },
                     {
                         "actionsetting": {
-                            "action": "TriggerActionButton_1.38"
-                        },
-                        "keysequence": "F1"
-                    },
-                    {
-                        "actionsetting": {
                             "action": "TriggerActionButton_2.1"
                         },
                         "keysequence": "Ctrl+'"
@@ -4807,12 +4859,6 @@
                             "action": "TriggerActionButton_2.6"
                         },
                         "keysequence": "Ctrl+5"
-                    },
-                    {
-                        "actionsetting": {
-                            "action": "TriggerActionButton_2.7"
-                        },
-                        "keysequence": "Ctrl+¨"
                     },
                     {
                         "actionsetting": {
@@ -5155,6 +5201,18 @@
                             "action": "ToggleSpellListWidget"
                         },
                         "keysequence": "Alt+L"
+                    },
+                    {
+                        "actionsetting": {
+                            "action": "TriggerActionButton_2.7"
+                        },
+                        "keysequence": "F1"
+                    },
+                    {
+                        "actionsetting": {
+                            "action": "TriggerActionButton_1.37"
+                        },
+                        "keysequence": "F2"
                     }
                 ],
                 "chatOn": [
@@ -6223,12 +6281,15 @@
         "autoChaseEnabled": false,
         "characterSelectionShowHidden": false,
         "characterSelectionShowOutfits": true,
+        "characterSelectionSortAscendingOrder": true,
+        "characterSelectionSortColumn": 1,
         "colorizeLootStyle": 1,
         "combatShowFrames": true,
         "combatShowPvpFrames": true,
         "connectionStabilityOptimizationEnabled": true,
         "consoleShowEventMessages": true,
         "consoleShowInfoMessages": true,
+        "consoleShowJoinLeaveMessages": true,
         "consoleShowLevels": true,
         "consoleShowStatusMessagesOfOthers": true,
         "consoleShowStatusMessagesOwn": true,
@@ -6241,36 +6302,46 @@
         "creatureShowMarks": true,
         "creatureShowName": true,
         "dragAndDropDefaultActionIsMoveAll": false,
+        "emergencyDialogVersion": 2,
         "frameRateLimit": 50,
         "frameRateLimitEnabled": false,
         "gameWindowScaleOnlyByEvenMultiples": false,
+        "gameWindowShowBoostedCreatureMessages": true,
+        "gameWindowShowHotkeyUsageMessages": true,
+        "gameWindowShowLootMessages": true,
         "gameWindowShowMessages": true,
-        "gameWindowShowOthersSpells": true,
+        "gameWindowShowOfflineTrainingMessages": true,
+        "gameWindowShowOthersSpells": false,
         "gameWindowShowOwnSpells": true,
+        "gameWindowShowPotionMessages": true,
         "gameWindowShowPrivateMessages": true,
+        "gameWindowShowStoreMessages": true,
         "gameWindowShowTextualEffects": true,
         "inspectPlayerAllowAllEnabled": true,
         "keyboardDelayMs": 250,
         "keyboardDelayUseDefault": true,
         "lightAmbientLevel": 0.25,
-        "lightAttenuationCloudsIndoor": 0.80000001192092896,
+        "lightAttenuationCloudsIndoor": 0.800000011920929,
         "lightEffectsEnabled": true,
-        "lightLevelSeparatorLevel": 0.80000001192092896,
+        "lightLevelSeparatorLevel": 0.800000011920929,
         "linkCopyWarningEnabled": true,
+        "loginEmailAddress": "fredericojordan@gmail.com",
         "lootSchemeIndex": 2,
-        "mapWindowHeight": 782,
+        "mapWindowHeight": 802,
+        "marketShowLockerOnly": false,
         "mouseAnimatedCursor": true,
         "mouseHighlightTarget": true,
         "mouseSystemCursor": false,
         "openCharacterTrackingChannelOnLogin": true,
         "optionsShowAdvanced": true,
-        "playerHudBarStyle": false,
+        "playerHudBarStyle": true,
         "playerHudEnabled": true,
         "playerShowHealth": true,
-        "playerShowMana": true,
+        "playerShowMana": false,
         "playerShowMarks": true,
         "playerShowName": true,
         "quickLogin": true,
+        "rememberLoginEmail": true,
         "rendererIndex": 0,
         "rotateWithAlt": false,
         "rotateWithCtrl": true,
@@ -6296,15 +6367,19 @@
         "screnshotsOnlyGameWindow": true,
         "sessionRemainLoggedIn": true,
         "showDailyRemainingTournamentPlaytimeIndicator": true,
+        "showEMailAsPlainText": true,
         "stashAskBeforeStowContainerContent": true,
         "statusBarEnabled": true,
         "statusPanelEnabled": true,
         "storeAskBeforeBuyingProducts": true,
         "vSyncEnabled": true
     },
+    "pinnedCharacters": [
+        "5253304749945524a0ca3f81a76b159424a8abc5ae6bf528049ff9090ab5e8d6"
+    ],
     "rendererChangeConfirmationRequired": false,
     "survey": {
-        "id": 124842,
+        "id": 536991,
         "status": 2
     },
     "whiteBlacklistOptions": {
