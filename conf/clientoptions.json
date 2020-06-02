@@ -3243,7 +3243,7 @@
                             "actionBar": 1,
                             "actionButton": 3,
                             "actionsetting": {
-                                "chatText": "exura",
+                                "chatText": "exura infir",
                                 "sendAutomatically": true
                             }
                         },
@@ -3275,7 +3275,7 @@
                             "actionBar": 1,
                             "actionButton": 6,
                             "actionsetting": {
-                                "chatText": "exura infir",
+                                "chatText": "exura",
                                 "sendAutomatically": true
                             }
                         },
@@ -3331,16 +3331,16 @@
                             "actionBar": 1,
                             "actionButton": 11,
                             "actionsetting": {
-                                "useObject": 3189,
-                                "useType": "UseOnTarget"
+                                "useObject": 3160,
+                                "useType": "SelectUseTarget"
                             }
                         },
                         {
                             "actionBar": 1,
                             "actionButton": 10,
                             "actionsetting": {
-                                "useObject": 3190,
-                                "useType": "SelectUseTarget"
+                                "useObject": 3189,
+                                "useType": "UseOnTarget"
                             }
                         },
                         {
@@ -3361,17 +3361,9 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 37,
-                            "actionsetting": {
-                                "chatText": "adori gran mort",
-                                "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 1,
                             "actionButton": 8,
                             "actionsetting": {
-                                "useObject": 3191,
+                                "useObject": 3202,
                                 "useType": "SelectUseTarget"
                             }
                         },
@@ -3499,7 +3491,7 @@
                             "actionBar": 1,
                             "actionButton": 33,
                             "actionsetting": {
-                                "chatText": "thais",
+                                "chatText": "darashia",
                                 "sendAutomatically": true
                             }
                         },
@@ -3574,6 +3566,22 @@
                                 "useEquipSmartMode": false,
                                 "useObject": 3048,
                                 "useType": "Equip"
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 39,
+                            "actionsetting": {
+                                "useObject": 3190,
+                                "useType": "SelectUseTarget"
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 37,
+                            "actionsetting": {
+                                "chatText": "adori gran mort",
+                                "sendAutomatically": true
                             }
                         },
                         {
@@ -3653,7 +3661,7 @@
                             "actionBar": 2,
                             "actionButton": 6,
                             "actionsetting": {
-                                "useObject": 3202,
+                                "useObject": 3191,
                                 "useType": "SelectUseTarget"
                             }
                         },
@@ -4082,15 +4090,27 @@
                     },
                     {
                         "actionsetting": {
+                            "action": "TriggerActionButton_1.23"
+                        },
+                        "keysequence": "F2"
+                    },
+                    {
+                        "actionsetting": {
+                            "action": "TriggerActionButton_1.24"
+                        },
+                        "keysequence": "F3"
+                    },
+                    {
+                        "actionsetting": {
                             "action": "TriggerActionButton_1.37"
                         },
-                        "keysequence": "F1"
+                        "keysequence": "Ctrl+'"
                     },
                     {
                         "actionsetting": {
                             "action": "TriggerActionButton_2.1"
                         },
-                        "keysequence": "Ctrl+'"
+                        "keysequence": "F1"
                     },
                     {
                         "actionsetting": {
@@ -7861,7 +7881,7 @@
         "actionButtonShowSpellParameters": true,
         "antialiasingMode": 2,
         "autoChaseEnabled": false,
-        "characterSelectionShowHidden": false,
+        "characterSelectionShowHidden": true,
         "characterSelectionShowOutfits": true,
         "characterSelectionSortAscendingOrder": true,
         "characterSelectionSortColumn": 1,
@@ -7889,7 +7909,7 @@
         "frameRateLimitEnabled": false,
         "gameWindowScaleOnlyByEvenMultiples": false,
         "gameWindowShowBoostedCreatureMessages": true,
-        "gameWindowShowHotkeyUsageMessages": true,
+        "gameWindowShowHotkeyUsageMessages": false,
         "gameWindowShowLootMessages": true,
         "gameWindowShowMessages": true,
         "gameWindowShowOfflineTrainingMessages": true,
@@ -7904,12 +7924,12 @@
         "keyboardDelayUseDefault": true,
         "lightAmbientLevel": 0.19999998807907104,
         "lightAttenuationCloudsIndoor": 0.7000000476837158,
-        "lightEffectsEnabled": true,
+        "lightEffectsEnabled": false,
         "lightLevelSeparatorLevel": 0.800000011920929,
         "linkCopyWarningEnabled": true,
         "loginEmailAddress": "fredericojordan@gmail.com",
         "lootSchemeIndex": 2,
-        "mapWindowHeight": 802,
+        "mapWindowHeight": 875,
         "marketShowLockerOnly": false,
         "mouseAnimatedCursor": true,
         "mouseHighlightTarget": true,
@@ -7919,7 +7939,7 @@
         "playerHudBarStyle": true,
         "playerHudEnabled": true,
         "playerShowHealth": true,
-        "playerShowMana": false,
+        "playerShowMana": true,
         "playerShowMarks": true,
         "playerShowName": true,
         "quickLogin": true,
@@ -7951,7 +7971,7 @@
         "showDailyRemainingTournamentPlaytimeIndicator": true,
         "showEMailAsPlainText": true,
         "stashAskBeforeStowContainerContent": false,
-        "statusBarEnabled": true,
+        "statusBarEnabled": false,
         "statusPanelEnabled": true,
         "storeAskBeforeBuyingProducts": true,
         "tournamentButtonLastHighlightDateTime": 1588098106,
