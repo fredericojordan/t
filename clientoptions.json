@@ -48,19 +48,11 @@
     },
     "hotkeyOptions": {
         "autoSwitchHotkeyPreset": true,
-        "currentHotkeySetName": "Fredrick the Stoner",
+        "currentHotkeySetName": "Gaussler",
         "hotkeySets": {
             "Cecilia Jordan": {
                 "actionBarOptions": {
                     "mappings": [
-                        {
-                            "actionBar": 1,
-                            "actionButton": 26,
-                            "actionsetting": {
-                                "useObject": 3607,
-                                "useType": "Use"
-                            }
-                        },
                         {
                             "actionBar": 1,
                             "actionButton": 3,
@@ -71,9 +63,25 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 27,
+                            "actionButton": 25,
                             "actionsetting": {
-                                "useObject": 3585,
+                                "useObject": 3578,
+                                "useType": "Use"
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 2,
+                            "actionsetting": {
+                                "useObject": 268,
+                                "useType": "UseOnYourself"
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 26,
+                            "actionsetting": {
+                                "useObject": 3607,
                                 "useType": "Use"
                             }
                         },
@@ -95,14 +103,6 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 5,
-                            "actionsetting": {
-                                "chatText": "exura sio \"Joana Duria\"",
-                                "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 1,
                             "actionButton": 6,
                             "actionsetting": {
                                 "chatText": "exura infir",
@@ -119,17 +119,17 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 2,
+                            "actionButton": 5,
                             "actionsetting": {
-                                "useObject": 268,
-                                "useType": "UseOnYourself"
+                                "chatText": "exura sio \"Joana Duria\"",
+                                "sendAutomatically": true
                             }
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 25,
+                            "actionButton": 27,
                             "actionsetting": {
-                                "useObject": 3578,
+                                "useObject": 3585,
                                 "useType": "Use"
                             }
                         },
@@ -167,6 +167,14 @@
                         },
                         {
                             "actionBar": 2,
+                            "actionButton": 15,
+                            "actionsetting": {
+                                "chatText": "exani tera",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 2,
                             "actionButton": 27,
                             "actionsetting": {
                                 "useObject": 3592,
@@ -178,14 +186,6 @@
                             "actionButton": 4,
                             "actionsetting": {
                                 "chatText": "exori flam",
-                                "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 2,
-                            "actionButton": 15,
-                            "actionsetting": {
-                                "chatText": "exani tera",
                                 "sendAutomatically": true
                             }
                         },
@@ -263,17 +263,17 @@
                         },
                         {
                             "actionBar": 2,
-                            "actionButton": 9,
+                            "actionButton": 20,
                             "actionsetting": {
-                                "chatText": "utamo vita",
+                                "chatText": "adori min vis",
                                 "sendAutomatically": true
                             }
                         },
                         {
                             "actionBar": 2,
-                            "actionButton": 20,
+                            "actionButton": 9,
                             "actionsetting": {
-                                "chatText": "adori min vis",
+                                "chatText": "utamo vita",
                                 "sendAutomatically": true
                             }
                         },
@@ -335,9 +335,9 @@
                         },
                         {
                             "actionBar": 3,
-                            "actionButton": 25,
+                            "actionButton": 13,
                             "actionsetting": {
-                                "chatText": "utani gran hur",
+                                "chatText": "exevo infir frigo hur",
                                 "sendAutomatically": true
                             }
                         },
@@ -351,9 +351,9 @@
                         },
                         {
                             "actionBar": 3,
-                            "actionButton": 13,
+                            "actionButton": 25,
                             "actionsetting": {
-                                "chatText": "exevo infir frigo hur",
+                                "chatText": "utani gran hur",
                                 "sendAutomatically": true
                             }
                         },
@@ -375,17 +375,17 @@
                         },
                         {
                             "actionBar": 3,
-                            "actionButton": 27,
+                            "actionButton": 16,
                             "actionsetting": {
-                                "chatText": "utevo gran lux",
+                                "chatText": "exani hur down",
                                 "sendAutomatically": true
                             }
                         },
                         {
                             "actionBar": 3,
-                            "actionButton": 16,
+                            "actionButton": 27,
                             "actionsetting": {
-                                "chatText": "exani hur down",
+                                "chatText": "utevo gran lux",
                                 "sendAutomatically": true
                             }
                         },
@@ -1881,14 +1881,6 @@
                     "mappings": [
                         {
                             "actionBar": 2,
-                            "actionButton": 13,
-                            "actionsetting": {
-                                "useObject": 3003,
-                                "useType": "SelectUseTarget"
-                            }
-                        },
-                        {
-                            "actionBar": 2,
                             "actionButton": 2,
                             "actionsetting": {
                                 "chatText": "exori ico",
@@ -1897,9 +1889,9 @@
                         },
                         {
                             "actionBar": 2,
-                            "actionButton": 12,
+                            "actionButton": 13,
                             "actionsetting": {
-                                "useObject": 3457,
+                                "useObject": 3003,
                                 "useType": "SelectUseTarget"
                             }
                         },
@@ -1913,9 +1905,9 @@
                         },
                         {
                             "actionBar": 2,
-                            "actionButton": 27,
+                            "actionButton": 12,
                             "actionsetting": {
-                                "useObject": 25719,
+                                "useObject": 3457,
                                 "useType": "SelectUseTarget"
                             }
                         },
@@ -1929,9 +1921,9 @@
                         },
                         {
                             "actionBar": 2,
-                            "actionButton": 26,
+                            "actionButton": 27,
                             "actionsetting": {
-                                "useObject": 23722,
+                                "useObject": 25719,
                                 "useType": "SelectUseTarget"
                             }
                         },
@@ -1945,10 +1937,10 @@
                         },
                         {
                             "actionBar": 2,
-                            "actionButton": 17,
+                            "actionButton": 26,
                             "actionsetting": {
-                                "chatText": "utana vid",
-                                "sendAutomatically": true
+                                "useObject": 23722,
+                                "useType": "SelectUseTarget"
                             }
                         },
                         {
@@ -1958,6 +1950,14 @@
                                 "useEquipSmartMode": false,
                                 "useObject": 6529,
                                 "useType": "Equip"
+                            }
+                        },
+                        {
+                            "actionBar": 2,
+                            "actionButton": 17,
+                            "actionsetting": {
+                                "chatText": "utana vid",
+                                "sendAutomatically": true
                             }
                         },
                         {
@@ -2019,6 +2019,15 @@
                         },
                         {
                             "actionBar": 2,
+                            "actionButton": 22,
+                            "actionsetting": {
+                                "useEquipSmartMode": true,
+                                "useObject": 3053,
+                                "useType": "Equip"
+                            }
+                        },
+                        {
+                            "actionBar": 2,
                             "actionButton": 34,
                             "actionsetting": {
                                 "useObject": 3293,
@@ -2031,15 +2040,6 @@
                             "actionsetting": {
                                 "chatText": "exani hur down",
                                 "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 2,
-                            "actionButton": 22,
-                            "actionsetting": {
-                                "useEquipSmartMode": true,
-                                "useObject": 3053,
-                                "useType": "Equip"
                             }
                         },
                         {
@@ -2070,10 +2070,10 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 24,
+                            "actionButton": 2,
                             "actionsetting": {
-                                "useObject": 3483,
-                                "useType": "SelectUseTarget"
+                                "useObject": 268,
+                                "useType": "UseOnYourself"
                             }
                         },
                         {
@@ -2086,10 +2086,10 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 2,
+                            "actionButton": 24,
                             "actionsetting": {
-                                "useObject": 268,
-                                "useType": "UseOnYourself"
+                                "useObject": 3483,
+                                "useType": "SelectUseTarget"
                             }
                         },
                         {
@@ -2110,19 +2110,19 @@
                         },
                         {
                             "actionBar": 1,
+                            "actionButton": 17,
+                            "actionsetting": {
+                                "chatText": "exana pox",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
                             "actionButton": 28,
                             "actionsetting": {
                                 "useEquipSmartMode": false,
                                 "useObject": 3079,
                                 "useType": "Equip"
-                            }
-                        },
-                        {
-                            "actionBar": 1,
-                            "actionButton": 17,
-                            "actionsetting": {
-                                "chatText": "exana pox",
-                                "sendAutomatically": true
                             }
                         },
                         {
@@ -3139,14 +3139,6 @@
                         },
                         {
                             "actionBar": 2,
-                            "actionButton": 6,
-                            "actionsetting": {
-                                "chatText": "utori san",
-                                "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 2,
                             "actionButton": 29,
                             "actionsetting": {
                                 "useEquipSmartMode": false,
@@ -3156,9 +3148,9 @@
                         },
                         {
                             "actionBar": 2,
-                            "actionButton": 5,
+                            "actionButton": 6,
                             "actionsetting": {
-                                "chatText": "exori san",
+                                "chatText": "utori san",
                                 "sendAutomatically": true
                             }
                         },
@@ -3169,6 +3161,14 @@
                                 "useEquipSmartMode": false,
                                 "useObject": 3006,
                                 "useType": "Equip"
+                            }
+                        },
+                        {
+                            "actionBar": 2,
+                            "actionButton": 5,
+                            "actionsetting": {
+                                "chatText": "exori san",
+                                "sendAutomatically": true
                             }
                         },
                         {
@@ -3482,6 +3482,14 @@
                         },
                         {
                             "actionBar": 1,
+                            "actionButton": 2,
+                            "actionsetting": {
+                                "useObject": 237,
+                                "useType": "UseOnYourself"
+                            }
+                        },
+                        {
+                            "actionBar": 1,
                             "actionButton": 25,
                             "actionsetting": {
                                 "useEquipSmartMode": false,
@@ -3491,26 +3499,10 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 2,
-                            "actionsetting": {
-                                "useObject": 237,
-                                "useType": "UseOnYourself"
-                            }
-                        },
-                        {
-                            "actionBar": 1,
                             "actionButton": 11,
                             "actionsetting": {
                                 "chatText": "exura infir",
                                 "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 1,
-                            "actionButton": 1,
-                            "actionsetting": {
-                                "useObject": 236,
-                                "useType": "UseOnYourself"
                             }
                         },
                         {
@@ -3524,9 +3516,25 @@
                         },
                         {
                             "actionBar": 1,
+                            "actionButton": 1,
+                            "actionsetting": {
+                                "useObject": 236,
+                                "useType": "UseOnYourself"
+                            }
+                        },
+                        {
+                            "actionBar": 1,
                             "actionButton": 12,
                             "actionsetting": {
                                 "useObject": 12722,
+                                "useType": "SelectUseTarget"
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 13,
+                            "actionsetting": {
+                                "useObject": 12819,
                                 "useType": "SelectUseTarget"
                             }
                         },
@@ -3536,14 +3544,6 @@
                             "actionsetting": {
                                 "useObject": 7443,
                                 "useType": "Use"
-                            }
-                        },
-                        {
-                            "actionBar": 1,
-                            "actionButton": 13,
-                            "actionsetting": {
-                                "useObject": 12819,
-                                "useType": "SelectUseTarget"
                             }
                         },
                         {
@@ -4330,7 +4330,7 @@
                             "actionBar": 3,
                             "actionButton": 12,
                             "actionsetting": {
-                                "chatText": "exori flam",
+                                "chatText": "exori frigo",
                                 "sendAutomatically": true
                             }
                         },
@@ -4474,16 +4474,8 @@
                             "actionBar": 3,
                             "actionButton": 10,
                             "actionsetting": {
-                                "useObject": 3191,
+                                "useObject": 3161,
                                 "useType": "SelectUseTarget"
-                            }
-                        },
-                        {
-                            "actionBar": 1,
-                            "actionButton": 22,
-                            "actionsetting": {
-                                "chatText": "utori mas sio",
-                                "sendAutomatically": true
                             }
                         },
                         {
@@ -4491,6 +4483,14 @@
                             "actionButton": 45,
                             "actionsetting": {
                                 "chatText": "adevo mas grav vis",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 22,
+                            "actionsetting": {
+                                "chatText": "utori mas sio",
                                 "sendAutomatically": true
                             }
                         },
@@ -4993,8 +4993,8 @@
                             "actionBar": 2,
                             "actionButton": 3,
                             "actionsetting": {
-                                "chatText": "exori frigo",
-                                "sendAutomatically": true
+                                "useObject": 3155,
+                                "useType": "UseOnTarget"
                             }
                         },
                         {
@@ -5017,16 +5017,16 @@
                             "actionBar": 2,
                             "actionButton": 8,
                             "actionsetting": {
-                                "useObject": 3161,
-                                "useType": "SelectUseTarget"
+                                "chatText": "exori flam",
+                                "sendAutomatically": true
                             }
                         },
                         {
                             "actionBar": 2,
                             "actionButton": 7,
                             "actionsetting": {
-                                "useObject": 3155,
-                                "useType": "UseOnTarget"
+                                "useObject": 3191,
+                                "useType": "SelectUseTarget"
                             }
                         },
                         {
@@ -5327,11 +5327,37 @@
                         },
                         {
                             "actionBar": 8,
+                            "actionButton": 6,
+                            "actionsetting": {
+                                "useEquipSmartMode": true,
+                                "useObject": 23543,
+                                "useType": "Equip"
+                            }
+                        },
+                        {
+                            "actionBar": 8,
+                            "actionButton": 8,
+                            "actionsetting": {
+                                "useEquipSmartMode": false,
+                                "useObject": 25976,
+                                "useType": "Equip"
+                            }
+                        },
+                        {
+                            "actionBar": 8,
+                            "actionButton": 5,
+                            "actionsetting": {
+                                "useEquipSmartMode": false,
+                                "useObject": 3414,
+                                "useType": "Equip"
+                            }
+                        },
+                        {
+                            "actionBar": 8,
                             "actionButton": 7,
                             "actionsetting": {
-                                "upgradeTier": 0,
                                 "useEquipSmartMode": false,
-                                "useObject": 25779,
+                                "useObject": 3079,
                                 "useType": "Equip"
                             }
                         },
@@ -5358,9 +5384,8 @@
                             "actionBar": 8,
                             "actionButton": 2,
                             "actionsetting": {
-                                "upgradeTier": 0,
                                 "useEquipSmartMode": false,
-                                "useObject": 3387,
+                                "useObject": 27565,
                                 "useType": "Equip"
                             }
                         },
@@ -5375,37 +5400,10 @@
                         },
                         {
                             "actionBar": 8,
-                            "actionButton": 5,
-                            "actionsetting": {
-                                "useEquipSmartMode": false,
-                                "useObject": 3420,
-                                "useType": "Equip"
-                            }
-                        },
-                        {
-                            "actionBar": 8,
-                            "actionButton": 6,
-                            "actionsetting": {
-                                "useEquipSmartMode": false,
-                                "useObject": 3079,
-                                "useType": "Equip"
-                            }
-                        },
-                        {
-                            "actionBar": 8,
-                            "actionButton": 8,
-                            "actionsetting": {
-                                "useEquipSmartMode": false,
-                                "useObject": 14087,
-                                "useType": "Equip"
-                            }
-                        },
-                        {
-                            "actionBar": 8,
                             "actionButton": 4,
                             "actionsetting": {
                                 "useEquipSmartMode": false,
-                                "useObject": 3389,
+                                "useObject": 14087,
                                 "useType": "Equip"
                             }
                         },
@@ -5420,29 +5418,20 @@
                         },
                         {
                             "actionBar": 8,
-                            "actionButton": 14,
-                            "actionsetting": {
-                                "useEquipSmartMode": true,
-                                "useObject": 3053,
-                                "useType": "Equip"
-                            }
-                        },
-                        {
-                            "actionBar": 8,
                             "actionButton": 3,
                             "actionsetting": {
                                 "upgradeTier": 0,
                                 "useEquipSmartMode": false,
-                                "useObject": 3388,
+                                "useObject": 25779,
                                 "useType": "Equip"
                             }
                         },
                         {
                             "actionBar": 8,
-                            "actionButton": 9,
+                            "actionButton": 14,
                             "actionsetting": {
-                                "useEquipSmartMode": false,
-                                "useObject": 25976,
+                                "useEquipSmartMode": true,
+                                "useObject": 3053,
                                 "useType": "Equip"
                             }
                         }
@@ -6233,12 +6222,6 @@
                     },
                     {
                         "actionsetting": {
-                            "action": "ToggleTournamentLeaderboardWidget"
-                        },
-                        "keysequence": ""
-                    },
-                    {
-                        "actionsetting": {
                             "action": "ToggleSpellListWidget"
                         },
                         "keysequence": "Alt+L"
@@ -6994,14 +6977,6 @@
                         },
                         {
                             "actionBar": 2,
-                            "actionButton": 27,
-                            "actionsetting": {
-                                "useObject": 23722,
-                                "useType": "SelectUseTarget"
-                            }
-                        },
-                        {
-                            "actionBar": 2,
                             "actionButton": 38,
                             "actionsetting": {
                                 "chatText": "adura gran",
@@ -7010,10 +6985,10 @@
                         },
                         {
                             "actionBar": 2,
-                            "actionButton": 37,
+                            "actionButton": 27,
                             "actionsetting": {
-                                "chatText": "exura sio \"Hunter Warrior",
-                                "sendAutomatically": true
+                                "useObject": 23722,
+                                "useType": "SelectUseTarget"
                             }
                         },
                         {
@@ -7022,6 +6997,14 @@
                             "actionsetting": {
                                 "useObject": 25719,
                                 "useType": "SelectUseTarget"
+                            }
+                        },
+                        {
+                            "actionBar": 2,
+                            "actionButton": 37,
+                            "actionsetting": {
+                                "chatText": "exura sio \"Hunter Warrior",
+                                "sendAutomatically": true
                             }
                         },
                         {
@@ -7319,17 +7302,9 @@
                         },
                         {
                             "actionBar": 2,
-                            "actionButton": 2,
+                            "actionButton": 50,
                             "actionsetting": {
-                                "chatText": "exori max frigo",
-                                "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 2,
-                            "actionButton": 49,
-                            "actionsetting": {
-                                "chatText": "adevo grav vita",
+                                "chatText": "adito grav",
                                 "sendAutomatically": true
                             }
                         },
@@ -7343,9 +7318,17 @@
                         },
                         {
                             "actionBar": 2,
-                            "actionButton": 50,
+                            "actionButton": 49,
                             "actionsetting": {
-                                "chatText": "adito grav",
+                                "chatText": "adevo grav vita",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 2,
+                            "actionButton": 2,
+                            "actionsetting": {
+                                "chatText": "exori max frigo",
                                 "sendAutomatically": true
                             }
                         },
@@ -7384,17 +7367,17 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 39,
+                            "actionButton": 16,
                             "actionsetting": {
-                                "chatText": "adevo mas grav vis",
+                                "chatText": "exana flam",
                                 "sendAutomatically": true
                             }
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 16,
+                            "actionButton": 39,
                             "actionsetting": {
-                                "chatText": "exana flam",
+                                "chatText": "adevo mas grav vis",
                                 "sendAutomatically": true
                             }
                         },
@@ -7416,10 +7399,10 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 37,
+                            "actionButton": 25,
                             "actionsetting": {
-                                "chatText": "adori mas frigo",
-                                "sendAutomatically": true
+                                "useObject": 3192,
+                                "useType": "SelectUseTarget"
                             }
                         },
                         {
@@ -7432,18 +7415,10 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 25,
+                            "actionButton": 37,
                             "actionsetting": {
-                                "useObject": 3192,
-                                "useType": "SelectUseTarget"
-                            }
-                        },
-                        {
-                            "actionBar": 1,
-                            "actionButton": 36,
-                            "actionsetting": {
-                                "useObject": 7440,
-                                "useType": "Use"
+                                "chatText": "adori mas frigo",
+                                "sendAutomatically": true
                             }
                         },
                         {
@@ -7456,18 +7431,18 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 32,
+                            "actionButton": 36,
                             "actionsetting": {
-                                "useObject": 3191,
-                                "useType": "SelectUseTarget"
+                                "useObject": 7440,
+                                "useType": "Use"
                             }
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 46,
+                            "actionButton": 32,
                             "actionsetting": {
-                                "chatText": "adori mas tera",
-                                "sendAutomatically": true
+                                "useObject": 3191,
+                                "useType": "SelectUseTarget"
                             }
                         },
                         {
@@ -7477,6 +7452,14 @@
                                 "useEquipSmartMode": true,
                                 "useObject": 3097,
                                 "useType": "Equip"
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 46,
+                            "actionsetting": {
+                                "chatText": "adori mas tera",
+                                "sendAutomatically": true
                             }
                         },
                         {
@@ -7692,10 +7675,10 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 24,
+                            "actionButton": 48,
                             "actionsetting": {
-                                "useObject": 3161,
-                                "useType": "SelectUseTarget"
+                                "chatText": "adevo mas grav flam",
+                                "sendAutomatically": true
                             }
                         },
                         {
@@ -7708,18 +7691,10 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 48,
+                            "actionButton": 24,
                             "actionsetting": {
-                                "chatText": "adevo mas grav flam",
-                                "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 1,
-                            "actionButton": 49,
-                            "actionsetting": {
-                                "chatText": "adori min vis",
-                                "sendAutomatically": true
+                                "useObject": 3161,
+                                "useType": "SelectUseTarget"
                             }
                         },
                         {
@@ -7732,9 +7707,9 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 50,
+                            "actionButton": 49,
                             "actionsetting": {
-                                "chatText": "adana pox",
+                                "chatText": "adori min vis",
                                 "sendAutomatically": true
                             }
                         },
@@ -7743,6 +7718,14 @@
                             "actionButton": 3,
                             "actionsetting": {
                                 "chatText": "exura infir",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 50,
+                            "actionsetting": {
+                                "chatText": "adana pox",
                                 "sendAutomatically": true
                             }
                         },
@@ -9402,7 +9385,7 @@
         "linkCopyWarningEnabled": true,
         "loginEmailAddress": "fredericojordan@gmail.com",
         "lootSchemeIndex": 2,
-        "mapWindowHeight": 554,
+        "mapWindowHeight": 586,
         "marketShowLockerOnly": false,
         "mouseAnimatedCursor": true,
         "mouseBigCursor": false,
@@ -9477,7 +9460,7 @@
         "soundEventsVolume": 100,
         "soundItemsVolume": 100,
         "soundMasterVolume": 0,
-        "soundMasterVolumeOld": 100,
+        "soundMasterVolumeOld": 20,
         "soundMoveItemEnabled": true,
         "soundMusicVolume": 50,
         "soundPartyEnabled": true,
