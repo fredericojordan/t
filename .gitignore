@@ -8,5 +8,9 @@ characterdata/
 default
 log/
 package.json
+qml/
+qt.conf
 screenshots/
+sounds/
 storeimages/
+Tibia.icns
