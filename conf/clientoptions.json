@@ -48,7 +48,7 @@
     },
     "hotkeyOptions": {
         "autoSwitchHotkeyPreset": true,
-        "currentHotkeySetName": "Gaussler",
+        "currentHotkeySetName": "Frederer",
         "hotkeySets": {
             "Cecilia Jordan": {
                 "actionBarOptions": {
@@ -5846,7 +5846,7 @@
                             "actionBar": 2,
                             "actionButton": 7,
                             "actionsetting": {
-                                "useObject": 3161,
+                                "useObject": 3191,
                                 "useType": "SelectUseTarget"
                             }
                         },
@@ -6135,7 +6135,7 @@
                             "actionBar": 3,
                             "actionButton": 12,
                             "actionsetting": {
-                                "useObject": 3191,
+                                "useObject": 3161,
                                 "useType": "SelectUseTarget"
                             }
                         },
@@ -6185,6 +6185,14 @@
                             "actionsetting": {
                                 "useObject": 7440,
                                 "useType": "Use"
+                            }
+                        },
+                        {
+                            "actionBar": 3,
+                            "actionButton": 34,
+                            "actionsetting": {
+                                "useObject": 35226,
+                                "useType": "SelectUseTarget"
                             }
                         },
                         {
@@ -6469,26 +6477,10 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 13,
-                            "actionsetting": {
-                                "useObject": 2972,
-                                "useType": "SelectUseTarget"
-                            }
-                        },
-                        {
-                            "actionBar": 1,
                             "actionButton": 37,
                             "actionsetting": {
                                 "useObject": 3161,
                                 "useType": "UseOnTarget"
-                            }
-                        },
-                        {
-                            "actionBar": 1,
-                            "actionButton": 14,
-                            "actionsetting": {
-                                "useObject": 35226,
-                                "useType": "SelectUseTarget"
                             }
                         },
                         {
@@ -6692,6 +6684,15 @@
                             "actionsetting": {
                                 "useEquipSmartMode": false,
                                 "useObject": 16113,
+                                "useType": "Equip"
+                            }
+                        },
+                        {
+                            "actionBar": 9,
+                            "actionButton": 17,
+                            "actionsetting": {
+                                "useEquipSmartMode": true,
+                                "useObject": 6299,
                                 "useType": "Equip"
                             }
                         },
