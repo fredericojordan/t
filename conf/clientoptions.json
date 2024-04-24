@@ -9,23 +9,17 @@
     },
     "clientOptionsVersion": 6,
     "clientWindowOptions": {
-        "clientWindowHeight": 766,
+        "clientWindowHeight": 1080,
         "clientWindowIsBorderless": true,
-        "clientWindowIsMaximized": true,
-        "clientWindowPositionX": -173,
-        "clientWindowPositionY": 55,
+        "clientWindowIsMaximized": false,
+        "clientWindowPositionX": 0,
+        "clientWindowPositionY": 0,
         "clientWindowScreenName": "\\\\.\\DISPLAY1",
-        "clientWindowWidth": 1020
+        "clientWindowWidth": 1920
     },
     "controlButtonsOptions": {
         "disabledButtons": [
-            "partyWidget",
-            "spellListWidget",
-            "questTrackerWidget",
             "unjustifiedPoinsWidget",
-            "preyDialog",
-            "compendiumDialog",
-            "friendsDialog",
             "lenshelpFunction"
         ],
         "enabledButtons": [
@@ -44,7 +38,13 @@
             "bosstiaryTrackerWidget",
             "bestiaryTrackerWidget",
             "imbuementTrackerWidget",
-            "highscoresDialog"
+            "highscoresDialog",
+            "partyWidget",
+            "questTrackerWidget",
+            "preyDialog",
+            "compendiumDialog",
+            "friendsDialog",
+            "spellListWidget"
         ]
     },
     "hotkeyOptions": {
@@ -5213,6 +5213,15 @@
                             }
                         },
                         {
+                            "actionBar": 8,
+                            "actionButton": 17,
+                            "actionsetting": {
+                                "upgradeTier": 0,
+                                "useObject": 6578,
+                                "useType": "Use"
+                            }
+                        },
+                        {
                             "actionBar": 5,
                             "actionButton": 7,
                             "actionsetting": {
@@ -5345,6 +5354,14 @@
                             "actionButton": 16,
                             "actionsetting": {
                                 "chatText": "center",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 5,
+                            "actionButton": 15,
+                            "actionsetting": {
+                                "chatText": "rot",
                                 "sendAutomatically": true
                             }
                         },
@@ -5642,6 +5659,15 @@
                             }
                         },
                         {
+                            "actionBar": 7,
+                            "actionButton": 17,
+                            "actionsetting": {
+                                "useEquipSmartMode": true,
+                                "useObject": 6299,
+                                "useType": "Equip"
+                            }
+                        },
+                        {
                             "actionBar": 2,
                             "actionButton": 18,
                             "actionsetting": {
@@ -5845,7 +5871,7 @@
                             "actionBar": 2,
                             "actionButton": 27,
                             "actionsetting": {
-                                "useObject": 3731,
+                                "useObject": 3578,
                                 "useType": "Use"
                             }
                         },
@@ -5869,7 +5895,7 @@
                             "actionBar": 2,
                             "actionButton": 14,
                             "actionsetting": {
-                                "useObject": 3178,
+                                "useObject": 3148,
                                 "useType": "SelectUseTarget"
                             }
                         },
@@ -5877,7 +5903,7 @@
                             "actionBar": 2,
                             "actionButton": 7,
                             "actionsetting": {
-                                "useObject": 3161,
+                                "useObject": 3202,
                                 "useType": "SelectUseTarget"
                             }
                         },
@@ -5932,14 +5958,6 @@
                         },
                         {
                             "actionBar": 2,
-                            "actionButton": 12,
-                            "actionsetting": {
-                                "useObject": 3149,
-                                "useType": "SelectUseTarget"
-                            }
-                        },
-                        {
-                            "actionBar": 2,
                             "actionButton": 29,
                             "actionsetting": {
                                 "useObject": 3035,
@@ -5968,6 +5986,38 @@
                             "actionsetting": {
                                 "useObject": 3454,
                                 "useType": "SelectUseTarget"
+                            }
+                        },
+                        {
+                            "actionBar": 2,
+                            "actionButton": 34,
+                            "actionsetting": {
+                                "useObject": 35226,
+                                "useType": "SelectUseTarget"
+                            }
+                        },
+                        {
+                            "actionBar": 2,
+                            "actionButton": 37,
+                            "actionsetting": {
+                                "useObject": 3492,
+                                "useType": "Use"
+                            }
+                        },
+                        {
+                            "actionBar": 2,
+                            "actionButton": 35,
+                            "actionsetting": {
+                                "useObject": 3483,
+                                "useType": "SelectUseTarget"
+                            }
+                        },
+                        {
+                            "actionBar": 2,
+                            "actionButton": 13,
+                            "actionsetting": {
+                                "chatText": "utevo res \"demon skeleton\"",
+                                "sendAutomatically": true
                             }
                         },
                         {
@@ -6012,14 +6062,6 @@
                         },
                         {
                             "actionBar": 3,
-                            "actionButton": 14,
-                            "actionsetting": {
-                                "chatText": "utevo res \"fire elemental\"",
-                                "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 3,
                             "actionButton": 22,
                             "actionsetting": {
                                 "useObject": 3291,
@@ -6030,7 +6072,7 @@
                             "actionBar": 3,
                             "actionButton": 11,
                             "actionsetting": {
-                                "useObject": 3202,
+                                "useObject": 3175,
                                 "useType": "SelectUseTarget"
                             }
                         },
@@ -6046,7 +6088,7 @@
                             "actionBar": 3,
                             "actionButton": 9,
                             "actionsetting": {
-                                "useObject": 3173,
+                                "useObject": 3161,
                                 "useType": "SelectUseTarget"
                             }
                         },
@@ -6054,7 +6096,7 @@
                             "actionBar": 3,
                             "actionButton": 7,
                             "actionsetting": {
-                                "useObject": 3192,
+                                "useObject": 3149,
                                 "useType": "SelectUseTarget"
                             }
                         },
@@ -6062,7 +6104,7 @@
                             "actionBar": 3,
                             "actionButton": 8,
                             "actionsetting": {
-                                "useObject": 3180,
+                                "useObject": 3160,
                                 "useType": "SelectUseTarget"
                             }
                         },
@@ -6110,7 +6152,7 @@
                             "actionBar": 3,
                             "actionButton": 10,
                             "actionsetting": {
-                                "useObject": 3175,
+                                "useObject": 3191,
                                 "useType": "SelectUseTarget"
                             }
                         },
@@ -6140,14 +6182,6 @@
                         },
                         {
                             "actionBar": 3,
-                            "actionButton": 23,
-                            "actionsetting": {
-                                "useObject": 3483,
-                                "useType": "SelectUseTarget"
-                            }
-                        },
-                        {
-                            "actionBar": 3,
                             "actionButton": 13,
                             "actionsetting": {
                                 "chatText": "utani gran hur",
@@ -6159,30 +6193,6 @@
                             "actionButton": 20,
                             "actionsetting": {
                                 "useObject": 9594,
-                                "useType": "SelectUseTarget"
-                            }
-                        },
-                        {
-                            "actionBar": 3,
-                            "actionButton": 12,
-                            "actionsetting": {
-                                "useObject": 3191,
-                                "useType": "SelectUseTarget"
-                            }
-                        },
-                        {
-                            "actionBar": 3,
-                            "actionButton": 18,
-                            "actionsetting": {
-                                "useObject": 16277,
-                                "useType": "Use"
-                            }
-                        },
-                        {
-                            "actionBar": 3,
-                            "actionButton": 19,
-                            "actionsetting": {
-                                "useObject": 12306,
                                 "useType": "SelectUseTarget"
                             }
                         },
@@ -6206,16 +6216,81 @@
                             "actionBar": 3,
                             "actionButton": 33,
                             "actionsetting": {
-                                "useObject": 32013,
+                                "useObject": 39242,
                                 "useType": "SelectUseTarget"
                             }
                         },
                         {
                             "actionBar": 3,
-                            "actionButton": 16,
+                            "actionButton": 34,
                             "actionsetting": {
                                 "useObject": 7440,
                                 "useType": "Use"
+                            }
+                        },
+                        {
+                            "actionBar": 3,
+                            "actionButton": 30,
+                            "actionsetting": {
+                                "liquidType": 7,
+                                "useObject": 2874,
+                                "useType": "SelectUseTarget"
+                            }
+                        },
+                        {
+                            "actionBar": 3,
+                            "actionButton": 18,
+                            "actionsetting": {
+                                "useObject": 16277,
+                                "useType": "Use"
+                            }
+                        },
+                        {
+                            "actionBar": 3,
+                            "actionButton": 35,
+                            "actionsetting": {
+                                "useObject": 12306,
+                                "useType": "SelectUseTarget"
+                            }
+                        },
+                        {
+                            "actionBar": 3,
+                            "actionButton": 14,
+                            "actionsetting": {
+                                "useObject": 3178,
+                                "useType": "SelectUseTarget"
+                            }
+                        },
+                        {
+                            "actionBar": 3,
+                            "actionButton": 42,
+                            "actionsetting": {
+                                "chatText": "¯\\_(°- ° )_/¯",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 3,
+                            "actionButton": 43,
+                            "actionsetting": {
+                                "chatText": "Tá jogando bem demais, irmão! Só precisa dar uma trabalhada na comunicação, teamplay, posicionamento, coordenação, utilitário, timing, confiança, mira, economia, rotação de skills, movimentação e noção de jogo que você vai virar um MONSTRO!",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 3,
+                            "actionButton": 44,
+                            "actionsetting": {
+                                "chatText": "hi - mission - yselda - shortcut - help - sail - passage - blessings - enhanced - enchant - peg leg - deposit all - ticket - tasks - something - tibia - yes",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 3,
+                            "actionButton": 45,
+                            "actionsetting": {
+                                "chatText": ".·'´¸.·**·.¸`'·.¸¸.·'´¸.·**·.¸`'·.¸ ***Congratulations! *** ¸.·'´¸.·**·.¸`'·.¸¸.·'´¸.·**·.¸`'·.",
+                                "sendAutomatically": true
                             }
                         },
                         {
@@ -6320,49 +6395,10 @@
                         },
                         {
                             "actionBar": 9,
-                            "actionButton": 17,
-                            "actionsetting": {
-                                "useEquipSmartMode": true,
-                                "useObject": 6299,
-                                "useType": "Equip"
-                            }
-                        },
-                        {
-                            "actionBar": 9,
                             "actionButton": 5,
                             "actionsetting": {
                                 "useEquipSmartMode": false,
                                 "useObject": 29424,
-                                "useType": "Equip"
-                            }
-                        },
-                        {
-                            "actionBar": 9,
-                            "actionButton": 4,
-                            "actionsetting": {
-                                "upgradeTier": 0,
-                                "useEquipSmartMode": false,
-                                "useObject": 39166,
-                                "useType": "Equip"
-                            }
-                        },
-                        {
-                            "actionBar": 9,
-                            "actionButton": 3,
-                            "actionsetting": {
-                                "upgradeTier": 1,
-                                "useEquipSmartMode": false,
-                                "useObject": 31583,
-                                "useType": "Equip"
-                            }
-                        },
-                        {
-                            "actionBar": 9,
-                            "actionButton": 2,
-                            "actionsetting": {
-                                "upgradeTier": 0,
-                                "useEquipSmartMode": false,
-                                "useObject": 28714,
                                 "useType": "Equip"
                             }
                         },
@@ -6373,6 +6409,54 @@
                                 "useEquipSmartMode": false,
                                 "useObject": 21955,
                                 "useType": "Equip"
+                            }
+                        },
+                        {
+                            "actionBar": 9,
+                            "actionButton": 17,
+                            "actionsetting": {
+                                "upgradeTier": 0,
+                                "useEquipSmartMode": false,
+                                "useObject": 6578,
+                                "useType": "Equip"
+                            }
+                        },
+                        {
+                            "actionBar": 9,
+                            "actionButton": 1,
+                            "actionsetting": {
+                                "upgradeTier": 0,
+                                "useEquipSmartMode": false,
+                                "useObject": 28714,
+                                "useType": "Equip"
+                            }
+                        },
+                        {
+                            "actionBar": 9,
+                            "actionButton": 2,
+                            "actionsetting": {
+                                "upgradeTier": 1,
+                                "useEquipSmartMode": false,
+                                "useObject": 31583,
+                                "useType": "Equip"
+                            }
+                        },
+                        {
+                            "actionBar": 9,
+                            "actionButton": 3,
+                            "actionsetting": {
+                                "upgradeTier": 0,
+                                "useEquipSmartMode": false,
+                                "useObject": 39166,
+                                "useType": "Equip"
+                            }
+                        },
+                        {
+                            "actionBar": 9,
+                            "actionButton": 4,
+                            "actionsetting": {
+                                "chatText": "alchemist",
+                                "sendAutomatically": true
                             }
                         },
                         {
@@ -6397,14 +6481,6 @@
                             "actionsetting": {
                                 "useObject": 5908,
                                 "useType": "SelectUseTarget"
-                            }
-                        },
-                        {
-                            "actionBar": 1,
-                            "actionButton": 10,
-                            "actionsetting": {
-                                "useObject": 3195,
-                                "useType": "UseOnTarget"
                             }
                         },
                         {
@@ -6475,7 +6551,7 @@
                             "actionBar": 1,
                             "actionButton": 8,
                             "actionsetting": {
-                                "useObject": 3160,
+                                "useObject": 3180,
                                 "useType": "SelectUseTarget"
                             }
                         },
@@ -6547,7 +6623,7 @@
                             "actionBar": 1,
                             "actionButton": 9,
                             "actionsetting": {
-                                "useObject": 3200,
+                                "useObject": 3192,
                                 "useType": "SelectUseTarget"
                             }
                         },
@@ -6565,14 +6641,6 @@
                             "actionsetting": {
                                 "chatText": "utamo vita",
                                 "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 1,
-                            "actionButton": 11,
-                            "actionsetting": {
-                                "useObject": 3148,
-                                "useType": "SelectUseTarget"
                             }
                         },
                         {
@@ -6681,13 +6749,6 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 12,
-                            "actionsetting": {
-                                "passiveAbility": 1
-                            }
-                        },
-                        {
-                            "actionBar": 1,
                             "actionButton": 29,
                             "actionsetting": {
                                 "useObject": 3031,
@@ -6698,7 +6759,7 @@
                             "actionBar": 1,
                             "actionButton": 30,
                             "actionsetting": {
-                                "useObject": 3578,
+                                "useObject": 3731,
                                 "useType": "Use"
                             }
                         },
@@ -6706,7 +6767,7 @@
                             "actionBar": 1,
                             "actionButton": 33,
                             "actionsetting": {
-                                "useObject": 20054,
+                                "useObject": 3605,
                                 "useType": "SelectUseTarget"
                             }
                         },
@@ -6714,15 +6775,62 @@
                             "actionBar": 1,
                             "actionButton": 34,
                             "actionsetting": {
-                                "useObject": 39242,
+                                "useObject": 20054,
                                 "useType": "SelectUseTarget"
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 35,
+                            "actionsetting": {
+                                "useObject": 22009,
+                                "useType": "SelectUseTarget"
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 13,
+                            "actionsetting": {
+                                "passiveAbility": 1
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 14,
+                            "actionsetting": {
+                                "useObject": 3197,
+                                "useType": "SelectUseTarget"
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 11,
+                            "actionsetting": {
+                                "useObject": 3200,
+                                "useType": "SelectUseTarget"
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 10,
+                            "actionsetting": {
+                                "useObject": 3173,
+                                "useType": "SelectUseTarget"
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 12,
+                            "actionsetting": {
+                                "useObject": 3195,
+                                "useType": "UseOnTarget"
                             }
                         },
                         {
                             "actionBar": 1,
                             "actionButton": 32,
                             "actionsetting": {
-                                "useObject": 35226,
+                                "useObject": 32013,
                                 "useType": "SelectUseTarget"
                             }
                         },
@@ -6730,7 +6838,7 @@
                             "actionBar": 6,
                             "actionButton": 3,
                             "actionsetting": {
-                                "chatText": "yalahar",
+                                "chatText": "thais",
                                 "sendAutomatically": true
                             }
                         },
@@ -6754,7 +6862,7 @@
                             "actionBar": 6,
                             "actionButton": 4,
                             "actionsetting": {
-                                "chatText": "thais",
+                                "chatText": "yalahar",
                                 "sendAutomatically": true
                             }
                         },
@@ -6859,6 +6967,14 @@
                             "actionButton": 16,
                             "actionsetting": {
                                 "chatText": "west",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 6,
+                            "actionButton": 15,
+                            "actionsetting": {
+                                "chatText": "deposit all",
                                 "sendAutomatically": true
                             }
                         }
@@ -7089,12 +7205,6 @@
                     },
                     {
                         "actionsetting": {
-                            "action": "TriggerActionButton_3.16"
-                        },
-                        "keysequence": "\\"
-                    },
-                    {
-                        "actionsetting": {
                             "action": "TriggerActionButton_3.21"
                         },
                         "keysequence": "Shift+D"
@@ -7104,6 +7214,12 @@
                             "action": "TriggerActionButton_3.26"
                         },
                         "keysequence": "F3"
+                    },
+                    {
+                        "actionsetting": {
+                            "action": "TriggerActionButton_3.35"
+                        },
+                        "keysequence": "\\"
                     },
                     {
                         "actionsetting": {
@@ -11598,7 +11714,7 @@
         "emergencyDialogVersion": 0,
         "frameRateLimit": 60,
         "frameRateLimitEnabled": false,
-        "gameWindowLowerPaneHeight": 108,
+        "gameWindowLowerPaneHeight": 230,
         "gameWindowResizingMode": 0,
         "gameWindowScaleOnlyByEvenMultiples": true,
         "gameWindowShowBoostedCreatureMessages": true,
@@ -11616,14 +11732,14 @@
         "gameWindowShowTextualEffects": true,
         "gameWindowShowTragetFrame": true,
         "gameWindowUpperPaneHeight": 714,
-        "inspectPlayerAllowAllEnabled": false,
+        "inspectPlayerAllowAllEnabled": true,
         "keyboardDelayMs": 250,
         "keyboardDelayUseDefault": true,
         "lightAmbientLevel": 0.25,
         "lightAttenuationCloudsIndoor": 0.75,
         "lightEffectsEnabled": true,
         "lightLevelSeparatorLevel": 0.800000011920929,
-        "linkCopyWarningEnabled": true,
+        "linkCopyWarningEnabled": false,
         "loginEmailAddress": "fredericojordan@gmail.com",
         "lootSchemeIndex": 0,
         "marketShowLockerOnly": false,
@@ -11726,8 +11842,10 @@
     "whiteBlacklistOptions": {
         "blacklistedNames": [
             "Apollo Dallas",
+            "Benjamin",
             "Hello Descubra",
-            "Jack Boss Descubra"
+            "Jack Boss Descubra",
+            "Math Wulix"
         ],
         "whitelistedNames": [
         ]
