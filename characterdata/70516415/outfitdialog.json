@@ -1,0 +1,84 @@
+{
+    "configureShowOffSocketPresets": [
+    ],
+    "customiseCharacterPresets": [
+        {
+            "mount": {
+                "color": {
+                    "detail": 115,
+                    "head": 95,
+                    "legs": 94,
+                    "torso": 38
+                },
+                "id": 369
+            },
+            "name": "Preset",
+            "outfit": {
+                "color": {
+                    "detail": 0,
+                    "head": 97,
+                    "legs": 97,
+                    "torso": 97
+                },
+                "firstAddOn": true,
+                "id": 142,
+                "secondAddOn": true
+            },
+            "summon": {
+                "id": 0
+            }
+        },
+        {
+            "mount": {
+                "color": {
+                    "detail": 115,
+                    "head": 95,
+                    "legs": 94,
+                    "torso": 38
+                },
+                "id": 369
+            },
+            "name": "Preset",
+            "outfit": {
+                "color": {
+                    "detail": 0,
+                    "head": 97,
+                    "legs": 50,
+                    "torso": 125
+                },
+                "firstAddOn": true,
+                "id": 142,
+                "secondAddOn": true
+            },
+            "summon": {
+                "id": 0
+            }
+        },
+        {
+            "mount": {
+                "color": {
+                    "detail": 115,
+                    "head": 95,
+                    "legs": 94,
+                    "torso": 38
+                },
+                "id": 369
+            },
+            "name": "Preset",
+            "outfit": {
+                "color": {
+                    "detail": 0,
+                    "head": 97,
+                    "legs": 50,
+                    "torso": 125
+                },
+                "firstAddOn": true,
+                "id": 140,
+                "secondAddOn": true
+            },
+            "summon": {
+                "id": 0
+            }
+        }
+    ]
+}

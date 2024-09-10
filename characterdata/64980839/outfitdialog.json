@@ -1,0 +1,526 @@
+{
+    "configureShowOffSocketPresets": [
+    ],
+    "customiseCharacterPresets": [
+        {
+            "mount": {
+                "color": {
+                    "detail": 0,
+                    "head": 0,
+                    "legs": 0,
+                    "torso": 0
+                },
+                "id": 370
+            },
+            "name": "Preset",
+            "outfit": {
+                "color": {
+                    "detail": 114,
+                    "head": 116,
+                    "legs": 118,
+                    "torso": 114
+                },
+                "firstAddOn": false,
+                "id": 128,
+                "secondAddOn": false
+            },
+            "summon": {
+                "id": 1367
+            }
+        },
+        {
+            "mount": {
+                "color": {
+                    "detail": 0,
+                    "head": 0,
+                    "legs": 0,
+                    "torso": 0
+                },
+                "id": 548
+            },
+            "name": "Preset",
+            "outfit": {
+                "color": {
+                    "detail": 130,
+                    "head": 86,
+                    "legs": 57,
+                    "torso": 114
+                },
+                "firstAddOn": true,
+                "id": 145,
+                "secondAddOn": true
+            },
+            "summon": {
+                "id": 1367
+            }
+        },
+        {
+            "mount": {
+                "color": {
+                    "detail": 0,
+                    "head": 0,
+                    "legs": 0,
+                    "torso": 0
+                },
+                "id": 388
+            },
+            "name": "Preset",
+            "outfit": {
+                "color": {
+                    "detail": 113,
+                    "head": 0,
+                    "legs": 119,
+                    "torso": 114
+                },
+                "firstAddOn": true,
+                "id": 153,
+                "secondAddOn": true
+            },
+            "summon": {
+                "id": 1367
+            }
+        },
+        {
+            "mount": {
+                "color": {
+                    "detail": 0,
+                    "head": 0,
+                    "legs": 0,
+                    "torso": 0
+                },
+                "id": 373
+            },
+            "name": "Preset",
+            "outfit": {
+                "color": {
+                    "detail": 113,
+                    "head": 19,
+                    "legs": 114,
+                    "torso": 114
+                },
+                "firstAddOn": false,
+                "id": 152,
+                "secondAddOn": true
+            },
+            "summon": {
+                "id": 1367
+            }
+        },
+        {
+            "mount": {
+                "color": {
+                    "detail": 0,
+                    "head": 0,
+                    "legs": 0,
+                    "torso": 0
+                },
+                "id": 548
+            },
+            "name": "Luriam",
+            "outfit": {
+                "color": {
+                    "detail": 104,
+                    "head": 114,
+                    "legs": 92,
+                    "torso": 114
+                },
+                "firstAddOn": true,
+                "id": 132,
+                "secondAddOn": true
+            },
+            "summon": {
+                "id": 1367
+            }
+        },
+        {
+            "mount": {
+                "color": {
+                    "detail": 0,
+                    "head": 0,
+                    "legs": 0,
+                    "torso": 0
+                },
+                "id": 369
+            },
+            "name": "Preset",
+            "outfit": {
+                "color": {
+                    "detail": 113,
+                    "head": 86,
+                    "legs": 57,
+                    "torso": 114
+                },
+                "firstAddOn": true,
+                "id": 133,
+                "secondAddOn": true
+            },
+            "summon": {
+                "id": 1367
+            }
+        },
+        {
+            "mount": {
+                "color": {
+                    "detail": 0,
+                    "head": 0,
+                    "legs": 0,
+                    "torso": 0
+                },
+                "id": 406
+            },
+            "name": "Preset",
+            "outfit": {
+                "color": {
+                    "detail": 0,
+                    "head": 86,
+                    "legs": 49,
+                    "torso": 130
+                },
+                "firstAddOn": true,
+                "id": 146,
+                "secondAddOn": true
+            },
+            "summon": {
+                "id": 1367
+            }
+        },
+        {
+            "mount": {
+                "color": {
+                    "detail": 113,
+                    "head": 114,
+                    "legs": 132,
+                    "torso": 57
+                },
+                "id": 1363
+            },
+            "name": "Preset",
+            "outfit": {
+                "color": {
+                    "detail": 132,
+                    "head": 19,
+                    "legs": 114,
+                    "torso": 114
+                },
+                "firstAddOn": true,
+                "id": 152,
+                "secondAddOn": true
+            },
+            "summon": {
+                "id": 1367
+            }
+        },
+        {
+            "mount": {
+                "color": {
+                    "detail": 113,
+                    "head": 114,
+                    "legs": 132,
+                    "torso": 57
+                },
+                "id": 406
+            },
+            "name": "Preset",
+            "outfit": {
+                "color": {
+                    "detail": 90,
+                    "head": 49,
+                    "legs": 15,
+                    "torso": 19
+                },
+                "firstAddOn": true,
+                "id": 145,
+                "secondAddOn": true
+            },
+            "summon": {
+                "id": 1367
+            }
+        },
+        {
+            "mount": {
+                "color": {
+                    "detail": 113,
+                    "head": 114,
+                    "legs": 132,
+                    "torso": 57
+                },
+                "id": 387
+            },
+            "name": "Cast",
+            "outfit": {
+                "color": {
+                    "detail": 0,
+                    "head": 0,
+                    "legs": 69,
+                    "torso": 69
+                },
+                "firstAddOn": false,
+                "id": 128,
+                "secondAddOn": false
+            },
+            "summon": {
+                "id": 1367
+            }
+        },
+        {
+            "mount": {
+                "color": {
+                    "detail": 113,
+                    "head": 114,
+                    "legs": 132,
+                    "torso": 57
+                },
+                "id": 406
+            },
+            "name": "Preset",
+            "outfit": {
+                "color": {
+                    "detail": 90,
+                    "head": 49,
+                    "legs": 15,
+                    "torso": 19
+                },
+                "firstAddOn": true,
+                "id": 134,
+                "secondAddOn": true
+            },
+            "summon": {
+                "id": 1367
+            }
+        },
+        {
+            "mount": {
+                "color": {
+                    "detail": 113,
+                    "head": 114,
+                    "legs": 132,
+                    "torso": 57
+                },
+                "id": 1730
+            },
+            "name": "Preset",
+            "outfit": {
+                "color": {
+                    "detail": 0,
+                    "head": 0,
+                    "legs": 0,
+                    "torso": 0
+                },
+                "firstAddOn": true,
+                "id": 541,
+                "secondAddOn": true
+            },
+            "summon": {
+                "id": 1367
+            }
+        },
+        {
+            "mount": {
+                "color": {
+                    "detail": 113,
+                    "head": 114,
+                    "legs": 132,
+                    "torso": 57
+                },
+                "id": 392
+            },
+            "name": "Preset",
+            "outfit": {
+                "color": {
+                    "detail": 95,
+                    "head": 114,
+                    "legs": 95,
+                    "torso": 114
+                },
+                "firstAddOn": true,
+                "id": 541,
+                "secondAddOn": true
+            },
+            "summon": {
+                "id": 1367
+            }
+        },
+        {
+            "mount": {
+                "color": {
+                    "detail": 0,
+                    "head": 0,
+                    "legs": 0,
+                    "torso": 0
+                },
+                "id": 548
+            },
+            "name": "Preset",
+            "outfit": {
+                "color": {
+                    "detail": 113,
+                    "head": 86,
+                    "legs": 57,
+                    "torso": 114
+                },
+                "firstAddOn": true,
+                "id": 145,
+                "secondAddOn": true
+            },
+            "summon": {
+                "id": 1367
+            }
+        },
+        {
+            "mount": {
+                "color": {
+                    "detail": 0,
+                    "head": 0,
+                    "legs": 0,
+                    "torso": 0
+                },
+                "id": 406
+            },
+            "name": "Preset",
+            "outfit": {
+                "color": {
+                    "detail": 0,
+                    "head": 90,
+                    "legs": 14,
+                    "torso": 51
+                },
+                "firstAddOn": true,
+                "id": 146,
+                "secondAddOn": true
+            },
+            "summon": {
+                "id": 1367
+            }
+        },
+        {
+            "mount": {
+                "color": {
+                    "detail": 0,
+                    "head": 0,
+                    "legs": 0,
+                    "torso": 0
+                },
+                "id": 402
+            },
+            "name": "Preset",
+            "outfit": {
+                "color": {
+                    "detail": 101,
+                    "head": 0,
+                    "legs": 121,
+                    "torso": 91
+                },
+                "firstAddOn": true,
+                "id": 154,
+                "secondAddOn": true
+            },
+            "summon": {
+                "id": 1367
+            }
+        },
+        {
+            "mount": {
+                "color": {
+                    "detail": 0,
+                    "head": 0,
+                    "legs": 0,
+                    "torso": 0
+                },
+                "id": 402
+            },
+            "name": "Preset",
+            "outfit": {
+                "color": {
+                    "detail": 101,
+                    "head": 132,
+                    "legs": 121,
+                    "torso": 91
+                },
+                "firstAddOn": true,
+                "id": 154,
+                "secondAddOn": true
+            },
+            "summon": {
+                "id": 1367
+            }
+        },
+        {
+            "mount": {
+                "color": {
+                    "detail": 0,
+                    "head": 0,
+                    "legs": 0,
+                    "torso": 0
+                },
+                "id": 388
+            },
+            "name": "Preset",
+            "outfit": {
+                "color": {
+                    "detail": 132,
+                    "head": 10,
+                    "legs": 76,
+                    "torso": 95
+                },
+                "firstAddOn": true,
+                "id": 134,
+                "secondAddOn": true
+            },
+            "summon": {
+                "id": 1367
+            }
+        },
+        {
+            "mount": {
+                "color": {
+                    "detail": 0,
+                    "head": 0,
+                    "legs": 0,
+                    "torso": 0
+                },
+                "id": 390
+            },
+            "name": "Preset",
+            "outfit": {
+                "color": {
+                    "detail": 101,
+                    "head": 67,
+                    "legs": 121,
+                    "torso": 91
+                },
+                "firstAddOn": true,
+                "id": 154,
+                "secondAddOn": true
+            },
+            "summon": {
+                "id": 1367
+            }
+        },
+        {
+            "mount": {
+                "color": {
+                    "detail": 0,
+                    "head": 0,
+                    "legs": 0,
+                    "torso": 0
+                },
+                "id": 405
+            },
+            "name": "Preset",
+            "outfit": {
+                "color": {
+                    "detail": 116,
+                    "head": 19,
+                    "legs": 0,
+                    "torso": 114
+                },
+                "firstAddOn": true,
+                "id": 153,
+                "secondAddOn": true
+            },
+            "summon": {
+                "id": 1367
+            }
+        }
+    ]
+}
