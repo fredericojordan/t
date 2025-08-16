@@ -4,7 +4,7 @@
     "showClubFighting": false,
     "showDistanceFighting": false,
     "showExperience": true,
-    "showFishing": true,
+    "showFishing": false,
     "showFistFighting": false,
     "showMagicLevel": true,
     "showShielding": false,

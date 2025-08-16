@@ -11,7 +11,7 @@
                 "byAgeAscending",
                 "byAgeAscending"
             ],
-            "contentHeight": 491,
+            "contentHeight": 262,
             "contentMaximized": true,
             "isPartyView": false,
             "isPrimary": true,
@@ -92,7 +92,7 @@
     "npcTradeOptions": {
         "allowLargeTradesWithoutWarning": false,
         "allowSellingEquippedItems": false,
-        "contentHeight": 788,
+        "contentHeight": 551,
         "contentMaximized": true,
         "ignoreCapacityWhenBuying": false,
         "purchaseShoppingBagWhenBuying": false,
@@ -103,6 +103,14 @@
     "partyHuntAnalyserOptions": {
         "contentHeight": 0,
         "contentMaximized": true
+    },
+    "playerGuideWidgetOptions": {
+        "confirmedLevelSpecialPopups": [
+        ],
+        "contentHeight": 0,
+        "contentMaximized": true,
+        "pendingLevelSpecialPopups": [
+        ]
     },
     "preyWidgetOptions": {
         "contentHeight": 0,
@@ -117,10 +125,10 @@
         ]
     },
     "sidebarPanelsOptions": {
-        "chaseModeEnabled": true,
-        "combatMode": 1,
+        "chaseModeEnabled": false,
+        "combatMode": 3,
         "controlButtonsVisible": true,
-        "minimapZoomLevel": 0,
+        "minimapZoomLevel": 100,
         "minimizeInventory": false
     },
     "sidebarWidgetsMangerOptions": {
@@ -129,6 +137,10 @@
             [
                 {
                     "instance": 0,
+                    "type": "container"
+                },
+                {
+                    "instance": 1,
                     "type": "container"
                 }
             ],
@@ -141,15 +153,21 @@
                 {
                     "instance": 0,
                     "type": "battleList"
+                },
+                {
+                    "type": "vip"
                 }
             ]
         ]
     },
     "skillsWidgetOptions": {
-        "contentHeight": 497,
+        "contentHeight": 382,
         "contentMaximized": true,
+        "defenceStatsVisible": true,
         "invisibleProgressBars": [
-        ]
+        ],
+        "miscStatsVisible": true,
+        "offenceStatsVisible": true
     },
     "spellListWidgetOptions": {
         "contentHeight": 0,
@@ -159,6 +177,7 @@
         "showFreeSpells": true,
         "showHealingSpellGroup": true,
         "showKnightSpells": true,
+        "showMonkSpells": true,
         "showOnlyCurrentLevel": false,
         "showOnlyCurrentVocation": false,
         "showPaladinSpells": true,
@@ -176,10 +195,10 @@
         "contentMaximized": true
     },
     "vipWidgetOptions": {
-        "contentHeight": 0,
+        "contentHeight": 509,
         "contentMaximized": true,
-        "hideOfflineVips": false,
-        "showGrouped": false,
+        "hideOfflineVips": true,
+        "showGrouped": true,
         "vipSortOrder": [
         ]
     },

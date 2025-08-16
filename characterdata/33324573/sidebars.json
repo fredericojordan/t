@@ -51,6 +51,10 @@
         "sortOrder": "ascending"
     },
     "containersOptions": {
+        "2": {
+            "contentHeight": 65,
+            "contentMaximized": true
+        }
     },
     "damageInputAnalyserWidgetOptions": {
         "contentHeight": 0,
@@ -100,6 +104,14 @@
         "contentHeight": 0,
         "contentMaximized": true
     },
+    "playerGuideWidgetOptions": {
+        "confirmedLevelSpecialPopups": [
+        ],
+        "contentHeight": 0,
+        "contentMaximized": true,
+        "pendingLevelSpecialPopups": [
+        ]
+    },
     "preyWidgetOptions": {
         "contentHeight": 0,
         "contentMaximized": true
@@ -145,8 +157,11 @@
     "skillsWidgetOptions": {
         "contentHeight": 0,
         "contentMaximized": true,
+        "defenceStatsVisible": true,
         "invisibleProgressBars": [
-        ]
+        ],
+        "miscStatsVisible": true,
+        "offenceStatsVisible": true
     },
     "spellListWidgetOptions": {
         "contentHeight": 0,
@@ -156,6 +171,7 @@
         "showFreeSpells": true,
         "showHealingSpellGroup": true,
         "showKnightSpells": true,
+        "showMonkSpells": true,
         "showOnlyCurrentLevel": false,
         "showOnlyCurrentVocation": false,
         "showPaladinSpells": true,

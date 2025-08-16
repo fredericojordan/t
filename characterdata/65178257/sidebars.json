@@ -104,6 +104,14 @@
         "contentHeight": 0,
         "contentMaximized": true
     },
+    "playerGuideWidgetOptions": {
+        "confirmedLevelSpecialPopups": [
+        ],
+        "contentHeight": 0,
+        "contentMaximized": true,
+        "pendingLevelSpecialPopups": [
+        ]
+    },
     "preyWidgetOptions": {
         "contentHeight": 0,
         "contentMaximized": true
@@ -141,8 +149,11 @@
     "skillsWidgetOptions": {
         "contentHeight": 0,
         "contentMaximized": true,
+        "defenceStatsVisible": true,
         "invisibleProgressBars": [
-        ]
+        ],
+        "miscStatsVisible": true,
+        "offenceStatsVisible": true
     },
     "spellListWidgetOptions": {
         "contentHeight": 0,

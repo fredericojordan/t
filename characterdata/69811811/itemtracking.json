@@ -1,5 +1,10 @@
 {
     "autoTrackAboveValue": 0,
     "trackedItems": [
+        {
+            "dropCount": 0,
+            "objectType": 11444,
+            "recordStartTimestamp": 1726778613
+        }
     ]
 }

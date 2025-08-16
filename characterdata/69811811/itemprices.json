@@ -2,6 +2,7 @@
     "customSalePrices": {
     },
     "primaryLootValueSources": {
+        "11444": "market",
         "3327": "market"
     }
 }

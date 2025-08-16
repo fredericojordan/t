@@ -52,7 +52,7 @@
     },
     "containersOptions": {
         "0": {
-            "contentHeight": 188,
+            "contentHeight": 195,
             "contentMaximized": true
         }
     },
@@ -104,6 +104,14 @@
         "contentHeight": 0,
         "contentMaximized": true
     },
+    "playerGuideWidgetOptions": {
+        "confirmedLevelSpecialPopups": [
+        ],
+        "contentHeight": 0,
+        "contentMaximized": true,
+        "pendingLevelSpecialPopups": [
+        ]
+    },
     "preyWidgetOptions": {
         "contentHeight": 0,
         "contentMaximized": true
@@ -119,8 +127,8 @@
     "sidebarPanelsOptions": {
         "chaseModeEnabled": false,
         "combatMode": 1,
-        "controlButtonsVisible": true,
-        "minimapZoomLevel": 0,
+        "controlButtonsVisible": false,
+        "minimapZoomLevel": 200,
         "minimizeInventory": false
     },
     "sidebarWidgetsMangerOptions": {
@@ -145,8 +153,11 @@
     "skillsWidgetOptions": {
         "contentHeight": 0,
         "contentMaximized": true,
+        "defenceStatsVisible": true,
         "invisibleProgressBars": [
-        ]
+        ],
+        "miscStatsVisible": true,
+        "offenceStatsVisible": true
     },
     "spellListWidgetOptions": {
         "contentHeight": 0,
@@ -156,6 +167,7 @@
         "showFreeSpells": true,
         "showHealingSpellGroup": true,
         "showKnightSpells": true,
+        "showMonkSpells": true,
         "showOnlyCurrentLevel": false,
         "showOnlyCurrentVocation": false,
         "showPaladinSpells": true,

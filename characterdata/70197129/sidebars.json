@@ -23,15 +23,15 @@
         },
         "1": {
             "battleListFilters": [
-                "hideMonsters",
                 "hideNPCs",
+                "hideMonsters",
                 "hidePlayerSummons"
             ],
             "battleListSortOrder": [
-                "byAgeAscending",
+                "byHitpointsAscending",
                 "byAgeAscending"
             ],
-            "contentHeight": 261,
+            "contentHeight": 120,
             "contentMaximized": true,
             "isPartyView": false,
             "isPrimary": false,
@@ -72,11 +72,15 @@
     },
     "containersOptions": {
         "0": {
-            "contentHeight": 195,
+            "contentHeight": 171,
+            "contentMaximized": true
+        },
+        "1": {
+            "contentHeight": 95,
             "contentMaximized": true
         },
         "3": {
-            "contentHeight": 103,
+            "contentHeight": 65,
             "contentMaximized": true
         }
     },
@@ -128,6 +132,14 @@
         "contentHeight": 0,
         "contentMaximized": true
     },
+    "playerGuideWidgetOptions": {
+        "confirmedLevelSpecialPopups": [
+        ],
+        "contentHeight": 0,
+        "contentMaximized": true,
+        "pendingLevelSpecialPopups": [
+        ]
+    },
     "preyWidgetOptions": {
         "contentHeight": 0,
         "contentMaximized": true
@@ -143,8 +155,8 @@
     "sidebarPanelsOptions": {
         "chaseModeEnabled": false,
         "combatMode": 3,
-        "controlButtonsVisible": false,
-        "minimapZoomLevel": 100,
+        "controlButtonsVisible": true,
+        "minimapZoomLevel": 0,
         "minimizeInventory": false
     },
     "sidebarWidgetsMangerOptions": {
@@ -166,13 +178,13 @@
             ],
             [
                 {
-                    "type": "skills"
-                },
-                {
                     "type": "xpAnalyser"
                 },
                 {
                     "type": "bosstiaryTracker"
+                },
+                {
+                    "type": "skills"
                 },
                 {
                     "type": "questTracker"
@@ -194,15 +206,18 @@
         ]
     },
     "skillsWidgetOptions": {
-        "contentHeight": 442,
+        "contentHeight": 382,
         "contentMaximized": true,
+        "defenceStatsVisible": true,
         "invisibleProgressBars": [
             "clubfighting",
             "swordfighting",
             "axefighting",
             "fistfighting",
             "fishing"
-        ]
+        ],
+        "miscStatsVisible": true,
+        "offenceStatsVisible": true
     },
     "spellListWidgetOptions": {
         "contentHeight": 0,
@@ -212,6 +227,7 @@
         "showFreeSpells": true,
         "showHealingSpellGroup": true,
         "showKnightSpells": true,
+        "showMonkSpells": true,
         "showOnlyCurrentLevel": false,
         "showOnlyCurrentVocation": false,
         "showPaladinSpells": true,
@@ -229,7 +245,7 @@
         "contentMaximized": true
     },
     "vipWidgetOptions": {
-        "contentHeight": 283,
+        "contentHeight": 414,
         "contentMaximized": true,
         "hideOfflineVips": true,
         "showGrouped": true,

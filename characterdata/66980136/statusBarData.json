@@ -6,7 +6,7 @@
     "showExperience": true,
     "showFishing": false,
     "showFistFighting": false,
-    "showMagicLevel": false,
+    "showMagicLevel": true,
     "showShielding": false,
     "showSwordFighting": false,
     "style": "default"

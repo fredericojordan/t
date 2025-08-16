@@ -7,7 +7,7 @@
     "showFishing": false,
     "showFistFighting": false,
     "showMagicLevel": true,
-    "showShielding": false,
+    "showShielding": true,
     "showSwordFighting": false,
-    "style": "default"
+    "style": "large"
 }

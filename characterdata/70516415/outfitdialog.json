@@ -79,6 +79,162 @@
             "summon": {
                 "id": 0
             }
+        },
+        {
+            "mount": {
+                "color": {
+                    "detail": 115,
+                    "head": 95,
+                    "legs": 94,
+                    "torso": 38
+                },
+                "id": 369
+            },
+            "name": "Preset",
+            "outfit": {
+                "color": {
+                    "detail": 0,
+                    "head": 97,
+                    "legs": 56,
+                    "torso": 132
+                },
+                "firstAddOn": true,
+                "id": 142,
+                "secondAddOn": true
+            },
+            "summon": {
+                "id": 0
+            }
+        },
+        {
+            "mount": {
+                "color": {
+                    "detail": 115,
+                    "head": 95,
+                    "legs": 94,
+                    "torso": 38
+                },
+                "id": 1150
+            },
+            "name": "Preset",
+            "outfit": {
+                "color": {
+                    "detail": 0,
+                    "head": 97,
+                    "legs": 56,
+                    "torso": 132
+                },
+                "firstAddOn": true,
+                "id": 142,
+                "secondAddOn": true
+            },
+            "summon": {
+                "id": 0
+            }
+        },
+        {
+            "mount": {
+                "color": {
+                    "detail": 115,
+                    "head": 95,
+                    "legs": 94,
+                    "torso": 38
+                },
+                "id": 1150
+            },
+            "name": "Preset",
+            "outfit": {
+                "color": {
+                    "detail": 113,
+                    "head": 97,
+                    "legs": 114,
+                    "torso": 114
+                },
+                "firstAddOn": true,
+                "id": 140,
+                "secondAddOn": true
+            },
+            "summon": {
+                "id": 0
+            }
+        },
+        {
+            "mount": {
+                "color": {
+                    "detail": 115,
+                    "head": 95,
+                    "legs": 94,
+                    "torso": 38
+                },
+                "id": 1150
+            },
+            "name": "Preset",
+            "outfit": {
+                "color": {
+                    "detail": 0,
+                    "head": 97,
+                    "legs": 38,
+                    "torso": 95
+                },
+                "firstAddOn": true,
+                "id": 142,
+                "secondAddOn": true
+            },
+            "summon": {
+                "id": 0
+            }
+        },
+        {
+            "mount": {
+                "color": {
+                    "detail": 115,
+                    "head": 95,
+                    "legs": 94,
+                    "torso": 38
+                },
+                "id": 1150
+            },
+            "name": "Preset",
+            "outfit": {
+                "color": {
+                    "detail": 113,
+                    "head": 97,
+                    "legs": 114,
+                    "torso": 114
+                },
+                "firstAddOn": true,
+                "id": 142,
+                "secondAddOn": true
+            },
+            "summon": {
+                "id": 0
+            }
+        },
+        {
+            "mount": {
+                "color": {
+                    "detail": 115,
+                    "head": 95,
+                    "legs": 94,
+                    "torso": 38
+                },
+                "id": 402
+            },
+            "name": "Preset",
+            "outfit": {
+                "color": {
+                    "detail": 0,
+                    "head": 15,
+                    "legs": 72,
+                    "torso": 15
+                },
+                "firstAddOn": true,
+                "id": 140,
+                "secondAddOn": true
+            },
+            "summon": {
+                "id": 0
+            }
         }
     ]
 }

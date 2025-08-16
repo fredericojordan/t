@@ -11,7 +11,7 @@
                 "byAgeAscending",
                 "byAgeAscending"
             ],
-            "contentHeight": 38,
+            "contentHeight": 624,
             "contentMaximized": true,
             "isPartyView": false,
             "isPrimary": true,
@@ -51,6 +51,18 @@
         "sortOrder": "ascending"
     },
     "containersOptions": {
+        "0": {
+            "contentHeight": 112,
+            "contentMaximized": true
+        },
+        "1": {
+            "contentHeight": 113,
+            "contentMaximized": true
+        },
+        "4": {
+            "contentHeight": 156,
+            "contentMaximized": true
+        }
     },
     "damageInputAnalyserWidgetOptions": {
         "contentHeight": 0,
@@ -100,6 +112,14 @@
         "contentHeight": 0,
         "contentMaximized": true
     },
+    "playerGuideWidgetOptions": {
+        "confirmedLevelSpecialPopups": [
+        ],
+        "contentHeight": 0,
+        "contentMaximized": true,
+        "pendingLevelSpecialPopups": [
+        ]
+    },
     "preyWidgetOptions": {
         "contentHeight": 0,
         "contentMaximized": true
@@ -113,40 +133,47 @@
         ]
     },
     "sidebarPanelsOptions": {
-        "chaseModeEnabled": true,
+        "chaseModeEnabled": false,
         "combatMode": 2,
         "controlButtonsVisible": true,
         "minimapZoomLevel": 0,
         "minimizeInventory": false
     },
     "sidebarWidgetsMangerOptions": {
-        "leftSidebarCount": 0,
+        "leftSidebarCount": 1,
         "openWidgetsOrderPerSidebar": [
             [
                 {
-                    "instance": 0,
-                    "type": "battleList"
-                },
-                {
-                    "instance": 0,
+                    "instance": 1,
                     "type": "container"
                 },
                 {
-                    "instance": 1,
+                    "instance": 0,
                     "type": "container"
                 },
                 {
                     "instance": 4,
                     "type": "container"
                 }
+            ],
+            [
+                {
+                    "instance": 0,
+                    "type": "battleList"
+                }
+            ],
+            [
             ]
         ]
     },
     "skillsWidgetOptions": {
-        "contentHeight": 0,
+        "contentHeight": 200,
         "contentMaximized": true,
+        "defenceStatsVisible": true,
         "invisibleProgressBars": [
-        ]
+        ],
+        "miscStatsVisible": true,
+        "offenceStatsVisible": true
     },
     "spellListWidgetOptions": {
         "contentHeight": 0,
@@ -156,6 +183,7 @@
         "showFreeSpells": true,
         "showHealingSpellGroup": true,
         "showKnightSpells": true,
+        "showMonkSpells": true,
         "showOnlyCurrentLevel": false,
         "showOnlyCurrentVocation": false,
         "showPaladinSpells": true,
