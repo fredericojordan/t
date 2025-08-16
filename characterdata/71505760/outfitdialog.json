@@ -1,0 +1,58 @@
+{
+    "configureShowOffSocketPresets": [
+    ],
+    "customiseCharacterPresets": [
+        {
+            "mount": {
+                "color": {
+                    "detail": 115,
+                    "head": 95,
+                    "legs": 39,
+                    "torso": 113
+                },
+                "id": 515
+            },
+            "name": "Preset",
+            "outfit": {
+                "color": {
+                    "detail": 132,
+                    "head": 10,
+                    "legs": 76,
+                    "torso": 95
+                },
+                "firstAddOn": true,
+                "id": 134,
+                "secondAddOn": true
+            },
+            "summon": {
+                "id": 0
+            }
+        },
+        {
+            "mount": {
+                "color": {
+                    "detail": 115,
+                    "head": 95,
+                    "legs": 39,
+                    "torso": 113
+                },
+                "id": 515
+            },
+            "name": "Preset",
+            "outfit": {
+                "color": {
+                    "detail": 116,
+                    "head": 96,
+                    "legs": 38,
+                    "torso": 57
+                },
+                "firstAddOn": true,
+                "id": 134,
+                "secondAddOn": true
+            },
+            "summon": {
+                "id": 0
+            }
+        }
+    ]
+}

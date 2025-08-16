@@ -1,0 +1,58 @@
+{
+    "configureShowOffSocketPresets": [
+    ],
+    "customiseCharacterPresets": [
+        {
+            "mount": {
+                "color": {
+                    "detail": 115,
+                    "head": 95,
+                    "legs": 94,
+                    "torso": 38
+                },
+                "id": 1677
+            },
+            "name": "Cupcake",
+            "outfit": {
+                "color": {
+                    "detail": 113,
+                    "head": 16,
+                    "legs": 81,
+                    "torso": 79
+                },
+                "firstAddOn": false,
+                "id": 141,
+                "secondAddOn": false
+            },
+            "summon": {
+                "id": 0
+            }
+        },
+        {
+            "mount": {
+                "color": {
+                    "detail": 115,
+                    "head": 95,
+                    "legs": 94,
+                    "torso": 38
+                },
+                "id": 1677
+            },
+            "name": "Preset",
+            "outfit": {
+                "color": {
+                    "detail": 0,
+                    "head": 9,
+                    "legs": 114,
+                    "torso": 94
+                },
+                "firstAddOn": false,
+                "id": 141,
+                "secondAddOn": false
+            },
+            "summon": {
+                "id": 0
+            }
+        }
+    ]
+}
