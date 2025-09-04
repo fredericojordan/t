@@ -11,13 +11,13 @@
                 "hidePlayerSummons"
             ],
             "battleListSortOrder": [
-                "byNameAscending",
+                "byNameDescending",
                 "byAgeAscending"
             ],
-            "contentHeight": 165,
+            "contentHeight": 113,
             "contentMaximized": true,
             "isPartyView": false,
-            "isPrimary": false,
+            "isPrimary": true,
             "name": "",
             "showFilters": false
         },
@@ -31,7 +31,7 @@
                 "byHitpointsAscending",
                 "byAgeAscending"
             ],
-            "contentHeight": 162,
+            "contentHeight": 180,
             "contentMaximized": true,
             "isPartyView": false,
             "isPrimary": false,
@@ -51,54 +51,37 @@
             "isPrimary": false,
             "name": "",
             "showFilters": false
-        },
-        "254": {
-            "battleListFilters": [
-                "hideNPCs",
-                "hidePlayerSummons",
-                "hidePlayers"
-            ],
-            "battleListSortOrder": [
-                "byNameAscending",
-                "byAgeAscending"
-            ],
-            "contentHeight": 284,
-            "contentMaximized": false,
-            "isPartyView": false,
-            "isPrimary": true,
-            "name": "",
-            "showFilters": false
         }
     },
     "bestiaryTrackerWidgetOptions": {
-        "contentHeight": 197,
+        "contentHeight": 164,
         "contentMaximized": false,
-        "sortKey": "completion",
-        "sortOrder": "descending"
+        "sortKey": "remaining",
+        "sortOrder": "ascending"
     },
     "bossTrackerWidgetOptions": {
-        "contentHeight": 202,
+        "contentHeight": 162,
         "contentMaximized": false,
         "sortKey": "remainingCooldown"
     },
     "bosstiaryTrackerWidgetOptions": {
-        "contentHeight": 67,
+        "contentHeight": 189,
         "contentMaximized": false,
         "sortKey": "completion",
         "sortOrder": "descending"
     },
     "containersOptions": {
         "0": {
-            "contentHeight": 47,
+            "contentHeight": 195,
             "contentMaximized": true
         },
         "1": {
-            "contentHeight": 81,
+            "contentHeight": 121,
             "contentMaximized": true
         },
         "2": {
             "contentHeight": 65,
-            "contentMaximized": true
+            "contentMaximized": false
         },
         "3": {
             "contentHeight": 93,
@@ -107,6 +90,10 @@
         "5": {
             "contentHeight": 82,
             "contentMaximized": true
+        },
+        "6": {
+            "contentHeight": 47,
+            "contentMaximized": false
         }
     },
     "damageInputAnalyserWidgetOptions": {
@@ -119,7 +106,7 @@
         "showLockerOnly": true
     },
     "huntingSessionAnalyserWidgetOptions": {
-        "contentHeight": 296,
+        "contentHeight": 220,
         "contentMaximized": false
     },
     "imbuementTrackerWidgetOptions": {
@@ -145,7 +132,7 @@
     "npcTradeOptions": {
         "allowLargeTradesWithoutWarning": true,
         "allowSellingEquippedItems": false,
-        "contentHeight": 322,
+        "contentHeight": 294,
         "contentMaximized": true,
         "ignoreCapacityWhenBuying": false,
         "purchaseShoppingBagWhenBuying": false,
@@ -185,7 +172,7 @@
         "chaseModeEnabled": false,
         "combatMode": 3,
         "controlButtonsVisible": false,
-        "minimapZoomLevel": 0,
+        "minimapZoomLevel": -100,
         "minimizeInventory": false
     },
     "sidebarWidgetsMangerOptions": {
@@ -198,6 +185,10 @@
                 },
                 {
                     "instance": 3,
+                    "type": "container"
+                },
+                {
+                    "instance": 6,
                     "type": "container"
                 },
                 {
@@ -300,7 +291,7 @@
         "contentMaximized": true
     },
     "vipWidgetOptions": {
-        "contentHeight": 173,
+        "contentHeight": 322,
         "contentMaximized": true,
         "hideOfflineVips": true,
         "showGrouped": true,

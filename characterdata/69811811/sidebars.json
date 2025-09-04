@@ -147,7 +147,7 @@
         "chaseModeEnabled": false,
         "combatMode": 3,
         "controlButtonsVisible": false,
-        "minimapZoomLevel": 0,
+        "minimapZoomLevel": 200,
         "minimizeInventory": false
     },
     "sidebarWidgetsMangerOptions": {
@@ -231,7 +231,7 @@
         "contentMaximized": true
     },
     "vipWidgetOptions": {
-        "contentHeight": 714,
+        "contentHeight": 454,
         "contentMaximized": true,
         "hideOfflineVips": true,
         "showGrouped": true,

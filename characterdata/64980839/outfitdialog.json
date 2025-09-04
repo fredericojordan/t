@@ -911,6 +911,58 @@
             "summon": {
                 "id": 1367
             }
+        },
+        {
+            "mount": {
+                "color": {
+                    "detail": 0,
+                    "head": 0,
+                    "legs": 0,
+                    "torso": 0
+                },
+                "id": 372
+            },
+            "name": "Preset",
+            "outfit": {
+                "color": {
+                    "detail": 101,
+                    "head": 50,
+                    "legs": 121,
+                    "torso": 91
+                },
+                "firstAddOn": true,
+                "id": 154,
+                "secondAddOn": true
+            },
+            "summon": {
+                "id": 1367
+            }
+        },
+        {
+            "mount": {
+                "color": {
+                    "detail": 0,
+                    "head": 0,
+                    "legs": 0,
+                    "torso": 0
+                },
+                "id": 372
+            },
+            "name": "Preset",
+            "outfit": {
+                "color": {
+                    "detail": 91,
+                    "head": 50,
+                    "legs": 90,
+                    "torso": 114
+                },
+                "firstAddOn": true,
+                "id": 145,
+                "secondAddOn": true
+            },
+            "summon": {
+                "id": 1367
+            }
         }
     ]
 }

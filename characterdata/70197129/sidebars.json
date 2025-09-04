@@ -155,7 +155,7 @@
     "sidebarPanelsOptions": {
         "chaseModeEnabled": false,
         "combatMode": 3,
-        "controlButtonsVisible": true,
+        "controlButtonsVisible": false,
         "minimapZoomLevel": 0,
         "minimizeInventory": false
     },
