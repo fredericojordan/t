@@ -147,7 +147,7 @@
         "chaseModeEnabled": false,
         "combatMode": 3,
         "controlButtonsVisible": false,
-        "minimapZoomLevel": 200,
+        "minimapZoomLevel": 100,
         "minimizeInventory": false
     },
     "sidebarWidgetsMangerOptions": {

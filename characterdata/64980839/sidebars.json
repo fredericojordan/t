@@ -14,7 +14,7 @@
                 "byNameDescending",
                 "byAgeAscending"
             ],
-            "contentHeight": 113,
+            "contentHeight": 194,
             "contentMaximized": true,
             "isPartyView": false,
             "isPrimary": true,
@@ -31,7 +31,7 @@
                 "byHitpointsAscending",
                 "byAgeAscending"
             ],
-            "contentHeight": 180,
+            "contentHeight": 192,
             "contentMaximized": true,
             "isPartyView": false,
             "isPrimary": false,
@@ -72,7 +72,7 @@
     },
     "containersOptions": {
         "0": {
-            "contentHeight": 195,
+            "contentHeight": 125,
             "contentMaximized": true
         },
         "1": {
@@ -81,7 +81,7 @@
         },
         "2": {
             "contentHeight": 65,
-            "contentMaximized": false
+            "contentMaximized": true
         },
         "3": {
             "contentHeight": 93,
@@ -102,7 +102,7 @@
     },
     "deoptSearchWidgetOptions": {
         "contentHeight": 284,
-        "contentMaximized": true,
+        "contentMaximized": false,
         "showLockerOnly": true
     },
     "huntingSessionAnalyserWidgetOptions": {
@@ -291,7 +291,7 @@
         "contentMaximized": true
     },
     "vipWidgetOptions": {
-        "contentHeight": 322,
+        "contentHeight": 292,
         "contentMaximized": true,
         "hideOfflineVips": true,
         "showGrouped": true,
