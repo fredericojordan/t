@@ -963,6 +963,32 @@
             "summon": {
                 "id": 1367
             }
+        },
+        {
+            "mount": {
+                "color": {
+                    "detail": 0,
+                    "head": 0,
+                    "legs": 0,
+                    "torso": 0
+                },
+                "id": 372
+            },
+            "name": "Preset",
+            "outfit": {
+                "color": {
+                    "detail": 113,
+                    "head": 50,
+                    "legs": 132,
+                    "torso": 114
+                },
+                "firstAddOn": true,
+                "id": 145,
+                "secondAddOn": true
+            },
+            "summon": {
+                "id": 1367
+            }
         }
     ]
 }

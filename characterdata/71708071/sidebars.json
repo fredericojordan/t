@@ -11,6 +11,7 @@
                 "hidePlayerSummons"
             ],
             "battleListSortOrder": [
+                "byAgeAscending",
                 "byAgeAscending"
             ],
             "contentHeight": 1061,
@@ -24,6 +25,7 @@
             "battleListFilters": [
             ],
             "battleListSortOrder": [
+                "byAgeAscending",
                 "byAgeAscending"
             ],
             "contentHeight": 38,

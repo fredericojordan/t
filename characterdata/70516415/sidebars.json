@@ -14,7 +14,7 @@
                 "byNameAscending",
                 "byAgeAscending"
             ],
-            "contentHeight": 225,
+            "contentHeight": 232,
             "contentMaximized": true,
             "isPartyView": false,
             "isPrimary": true,
@@ -31,7 +31,7 @@
                 "byHitpointsAscending",
                 "byAgeAscending"
             ],
-            "contentHeight": 116,
+            "contentHeight": 146,
             "contentMaximized": true,
             "isPartyView": false,
             "isPrimary": false,
@@ -54,7 +54,7 @@
         }
     },
     "bestiaryTrackerWidgetOptions": {
-        "contentHeight": 82,
+        "contentHeight": 121,
         "contentMaximized": false,
         "sortKey": "completion",
         "sortOrder": "descending"
@@ -72,40 +72,20 @@
     },
     "containersOptions": {
         "0": {
-            "contentHeight": 41,
+            "contentHeight": 155,
             "contentMaximized": true
         },
         "1": {
-            "contentHeight": 161,
+            "contentHeight": 75,
             "contentMaximized": true
         },
         "2": {
-            "contentHeight": 76,
+            "contentHeight": 94,
             "contentMaximized": true
         },
         "3": {
             "contentHeight": 65,
-            "contentMaximized": false
-        },
-        "4": {
-            "contentHeight": 41,
-            "contentMaximized": false
-        },
-        "5": {
-            "contentHeight": 85,
-            "contentMaximized": false
-        },
-        "6": {
-            "contentHeight": 41,
-            "contentMaximized": false
-        },
-        "7": {
-            "contentHeight": 116,
             "contentMaximized": true
-        },
-        "8": {
-            "contentHeight": 58,
-            "contentMaximized": false
         }
     },
     "damageInputAnalyserWidgetOptions": {
@@ -118,7 +98,7 @@
         "showLockerOnly": true
     },
     "huntingSessionAnalyserWidgetOptions": {
-        "contentHeight": 305,
+        "contentHeight": 235,
         "contentMaximized": false
     },
     "imbuementTrackerWidgetOptions": {
@@ -144,7 +124,7 @@
     "npcTradeOptions": {
         "allowLargeTradesWithoutWarning": true,
         "allowSellingEquippedItems": false,
-        "contentHeight": 362,
+        "contentHeight": 412,
         "contentMaximized": true,
         "ignoreCapacityWhenBuying": false,
         "purchaseShoppingBagWhenBuying": false,
@@ -165,8 +145,8 @@
         ]
     },
     "preyWidgetOptions": {
-        "contentHeight": 70,
-        "contentMaximized": true
+        "contentHeight": 72,
+        "contentMaximized": false
     },
     "questTrackerWidgetOptions": {
         "contentHeight": 38,
@@ -204,26 +184,6 @@
                     "type": "container"
                 },
                 {
-                    "instance": 7,
-                    "type": "container"
-                },
-                {
-                    "instance": 5,
-                    "type": "container"
-                },
-                {
-                    "instance": 6,
-                    "type": "container"
-                },
-                {
-                    "instance": 4,
-                    "type": "container"
-                },
-                {
-                    "instance": 8,
-                    "type": "container"
-                },
-                {
                     "instance": 1,
                     "type": "container"
                 }
@@ -244,11 +204,11 @@
             ],
             [
                 {
-                    "instance": 1,
+                    "instance": 0,
                     "type": "battleList"
                 },
                 {
-                    "instance": 0,
+                    "instance": 1,
                     "type": "battleList"
                 },
                 {
@@ -312,7 +272,7 @@
         "contentMaximized": true
     },
     "vipWidgetOptions": {
-        "contentHeight": 240,
+        "contentHeight": 243,
         "contentMaximized": true,
         "hideOfflineVips": true,
         "showGrouped": true,

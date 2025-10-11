@@ -12,7 +12,7 @@
                 "byAgeAscending",
                 "byAgeAscending"
             ],
-            "contentHeight": 542,
+            "contentHeight": 330,
             "contentMaximized": true,
             "isPartyView": false,
             "isPrimary": true,
@@ -248,7 +248,7 @@
         "contentMaximized": true
     },
     "vipWidgetOptions": {
-        "contentHeight": 469,
+        "contentHeight": 337,
         "contentMaximized": true,
         "hideOfflineVips": true,
         "showGrouped": true,

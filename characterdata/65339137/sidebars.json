@@ -125,10 +125,10 @@
         ]
     },
     "sidebarPanelsOptions": {
-        "chaseModeEnabled": false,
+        "chaseModeEnabled": true,
         "combatMode": 1,
-        "controlButtonsVisible": true,
-        "minimapZoomLevel": 100,
+        "controlButtonsVisible": false,
+        "minimapZoomLevel": 200,
         "minimizeInventory": false
     },
     "sidebarWidgetsMangerOptions": {

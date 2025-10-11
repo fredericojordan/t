@@ -55,8 +55,16 @@
             "contentHeight": 65,
             "contentMaximized": true
         },
+        "1": {
+            "contentHeight": 121,
+            "contentMaximized": true
+        },
         "4": {
             "contentHeight": 153,
+            "contentMaximized": true
+        },
+        "6": {
+            "contentHeight": 94,
             "contentMaximized": true
         }
     },
@@ -131,8 +139,8 @@
     "sidebarPanelsOptions": {
         "chaseModeEnabled": true,
         "combatMode": 2,
-        "controlButtonsVisible": true,
-        "minimapZoomLevel": 0,
+        "controlButtonsVisible": false,
+        "minimapZoomLevel": 100,
         "minimizeInventory": false
     },
     "sidebarWidgetsMangerOptions": {
@@ -148,15 +156,15 @@
                     "type": "container"
                 },
                 {
+                    "instance": 1,
+                    "type": "container"
+                },
+                {
                     "instance": 6,
                     "type": "container"
                 },
                 {
                     "instance": 4,
-                    "type": "container"
-                },
-                {
-                    "instance": 5,
                     "type": "container"
                 }
             ]
