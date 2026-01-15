@@ -69,9 +69,9 @@
         "contentMaximized": true
     },
     "deoptSearchWidgetOptions": {
-        "contentHeight": 0,
+        "contentHeight": 350,
         "contentMaximized": true,
-        "showLockerOnly": false
+        "showLockerOnly": true
     },
     "huntingSessionAnalyserWidgetOptions": {
         "contentHeight": 0,
@@ -135,7 +135,7 @@
     "sidebarPanelsOptions": {
         "chaseModeEnabled": false,
         "combatMode": 2,
-        "controlButtonsVisible": false,
+        "controlButtonsVisible": true,
         "minimapZoomLevel": 200,
         "minimizeInventory": false
     },
@@ -204,7 +204,7 @@
         "contentMaximized": true
     },
     "vipWidgetOptions": {
-        "contentHeight": 200,
+        "contentHeight": 204,
         "contentMaximized": true,
         "hideOfflineVips": false,
         "showGrouped": false,

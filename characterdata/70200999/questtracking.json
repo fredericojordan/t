@@ -10,5 +10,9 @@
     "pinnedQuestLines": [
     ],
     "trackedQuests": [
+        {
+            "id": 6667,
+            "isPinned": false
+        }
     ]
 }

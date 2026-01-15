@@ -5,10 +5,14 @@
         "autoTrackNewQuests": true,
         "autoUntrackCompletedQuests": true,
         "showCompletedInQuestLog": true,
-        "showHiddenInQuestLog": false
+        "showHiddenInQuestLog": true
     },
     "pinnedQuestLines": [
     ],
     "trackedQuests": [
+        {
+            "id": 4664,
+            "isPinned": false
+        }
     ]
 }

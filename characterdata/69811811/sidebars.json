@@ -21,6 +21,22 @@
             "name": "",
             "showFilters": false
         },
+        "1": {
+            "battleListFilters": [
+                "hideNPCs",
+                "hideMonsters"
+            ],
+            "battleListSortOrder": [
+                "byAgeAscending",
+                "byAgeAscending"
+            ],
+            "contentHeight": 130,
+            "contentMaximized": true,
+            "isPartyView": false,
+            "isPrimary": false,
+            "name": "PCs",
+            "showFilters": false
+        },
         "253": {
             "battleListFilters": [
             ],
@@ -146,8 +162,8 @@
     "sidebarPanelsOptions": {
         "chaseModeEnabled": false,
         "combatMode": 3,
-        "controlButtonsVisible": false,
-        "minimapZoomLevel": 0,
+        "controlButtonsVisible": true,
+        "minimapZoomLevel": 100,
         "minimizeInventory": false
     },
     "sidebarWidgetsMangerOptions": {
@@ -183,6 +199,10 @@
             [
                 {
                     "instance": 0,
+                    "type": "battleList"
+                },
+                {
+                    "instance": 1,
                     "type": "battleList"
                 },
                 {

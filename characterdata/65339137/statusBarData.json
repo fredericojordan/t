@@ -8,6 +8,6 @@
     "showFistFighting": false,
     "showMagicLevel": false,
     "showShielding": false,
-    "showSwordFighting": false,
+    "showSwordFighting": true,
     "style": "default"
 }

@@ -76,7 +76,7 @@
             "contentMaximized": true
         },
         "1": {
-            "contentHeight": 95,
+            "contentHeight": 119,
             "contentMaximized": true
         },
         "3": {
@@ -156,7 +156,7 @@
         "chaseModeEnabled": false,
         "combatMode": 3,
         "controlButtonsVisible": false,
-        "minimapZoomLevel": 0,
+        "minimapZoomLevel": 100,
         "minimizeInventory": false
     },
     "sidebarWidgetsMangerOptions": {
@@ -173,6 +173,10 @@
                 },
                 {
                     "instance": 1,
+                    "type": "container"
+                },
+                {
+                    "instance": 2,
                     "type": "container"
                 }
             ],
@@ -245,7 +249,7 @@
         "contentMaximized": true
     },
     "vipWidgetOptions": {
-        "contentHeight": 414,
+        "contentHeight": 271,
         "contentMaximized": true,
         "hideOfflineVips": true,
         "showGrouped": true,

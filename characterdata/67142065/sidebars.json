@@ -162,7 +162,7 @@
         ]
     },
     "skillsWidgetOptions": {
-        "contentHeight": 200,
+        "contentHeight": 179,
         "contentMaximized": true,
         "defenceStatsVisible": true,
         "invisibleProgressBars": [

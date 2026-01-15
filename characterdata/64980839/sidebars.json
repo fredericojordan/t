@@ -14,7 +14,7 @@
                 "byNameDescending",
                 "byAgeAscending"
             ],
-            "contentHeight": 276,
+            "contentHeight": 149,
             "contentMaximized": true,
             "isPartyView": false,
             "isPrimary": true,
@@ -28,10 +28,10 @@
                 "hidePlayerSummons"
             ],
             "battleListSortOrder": [
-                "byAgeAscending",
+                "byHitpointsAscending",
                 "byAgeAscending"
             ],
-            "contentHeight": 157,
+            "contentHeight": 131,
             "contentMaximized": true,
             "isPartyView": false,
             "isPrimary": false,
@@ -45,8 +45,8 @@
                 "byAgeAscending",
                 "byAgeAscending"
             ],
-            "contentHeight": 488,
-            "contentMaximized": false,
+            "contentHeight": 306,
+            "contentMaximized": true,
             "isPartyView": true,
             "isPrimary": false,
             "name": "",
@@ -54,7 +54,7 @@
         }
     },
     "bestiaryTrackerWidgetOptions": {
-        "contentHeight": 194,
+        "contentHeight": 351,
         "contentMaximized": false,
         "sortKey": "completion",
         "sortOrder": "descending"
@@ -65,48 +65,64 @@
         "sortKey": "remainingCooldown"
     },
     "bosstiaryTrackerWidgetOptions": {
-        "contentHeight": 263,
+        "contentHeight": 334,
         "contentMaximized": false,
         "sortKey": "completion",
         "sortOrder": "descending"
     },
     "containersOptions": {
         "0": {
-            "contentHeight": 124,
+            "contentHeight": 195,
             "contentMaximized": true
         },
         "1": {
-            "contentHeight": 123,
-            "contentMaximized": true
+            "contentHeight": 67,
+            "contentMaximized": false
         },
         "2": {
             "contentHeight": 65,
             "contentMaximized": false
         },
         "3": {
-            "contentHeight": 102,
+            "contentHeight": 41,
+            "contentMaximized": false
+        },
+        "4": {
+            "contentHeight": 76,
             "contentMaximized": true
         },
         "5": {
-            "contentHeight": 118,
+            "contentHeight": 195,
             "contentMaximized": true
+        },
+        "6": {
+            "contentHeight": 41,
+            "contentMaximized": false
+        },
+        "7": {
+            "contentHeight": 84,
+            "contentMaximized": false
+        },
+        "8": {
+            "contentHeight": 101,
+            "contentMaximized": false
         }
     },
     "damageInputAnalyserWidgetOptions": {
-        "contentHeight": 294,
+        "contentHeight": 289,
         "contentMaximized": true
     },
     "deoptSearchWidgetOptions": {
-        "contentHeight": 392,
+        "contentHeight": 284,
         "contentMaximized": true,
         "showLockerOnly": true
     },
     "huntingSessionAnalyserWidgetOptions": {
-        "contentHeight": 393,
+        "contentHeight": 356,
         "contentMaximized": false
     },
     "imbuementTrackerWidgetOptions": {
-        "contentHeight": 149,
+        "contentHeight": 132,
         "contentMaximized": true,
         "showAlmostGone": true,
         "showAlmostNew": true,
@@ -128,7 +144,7 @@
     "npcTradeOptions": {
         "allowLargeTradesWithoutWarning": true,
         "allowSellingEquippedItems": false,
-        "contentHeight": 374,
+        "contentHeight": 354,
         "contentMaximized": true,
         "ignoreCapacityWhenBuying": false,
         "purchaseShoppingBagWhenBuying": false,
@@ -149,12 +165,12 @@
         ]
     },
     "preyWidgetOptions": {
-        "contentHeight": 69,
+        "contentHeight": 179,
         "contentMaximized": true
     },
     "questTrackerWidgetOptions": {
-        "contentHeight": 170,
-        "contentMaximized": true
+        "contentHeight": 282,
+        "contentMaximized": false
     },
     "sidebarPanelsMangerOptions": {
         "panelsOrder": [
@@ -180,7 +196,11 @@
                     "type": "container"
                 },
                 {
-                    "instance": 3,
+                    "instance": 7,
+                    "type": "container"
+                },
+                {
+                    "instance": 8,
                     "type": "container"
                 },
                 {
@@ -188,11 +208,23 @@
                     "type": "container"
                 },
                 {
-                    "instance": 5,
+                    "instance": 3,
+                    "type": "container"
+                },
+                {
+                    "instance": 4,
+                    "type": "container"
+                },
+                {
+                    "instance": 6,
                     "type": "container"
                 },
                 {
                     "instance": 0,
+                    "type": "container"
+                },
+                {
+                    "instance": 5,
                     "type": "container"
                 }
             ],
@@ -224,12 +256,18 @@
                 },
                 {
                     "type": "vip"
+                },
+                {
+                    "type": "bestiaryTracker"
+                },
+                {
+                    "type": "bosstiaryTracker"
                 }
             ]
         ]
     },
     "skillsWidgetOptions": {
-        "contentHeight": 236,
+        "contentHeight": 159,
         "contentMaximized": true,
         "defenceStatsVisible": true,
         "invisibleProgressBars": [
@@ -260,7 +298,7 @@
         "showUnkownSpells": false
     },
     "supplyAnalyserWidgetOptions": {
-        "contentHeight": 134,
+        "contentHeight": 38,
         "contentMaximized": true
     },
     "unjustifiedPointsOptions": {
@@ -268,16 +306,17 @@
         "contentMaximized": true
     },
     "vipWidgetOptions": {
-        "contentHeight": 297,
+        "contentHeight": 371,
         "contentMaximized": true,
         "hideOfflineVips": true,
         "showGrouped": true,
         "vipSortOrder": [
+            "byState",
             "byName"
         ]
     },
     "xpAnalyserWidgetOptions": {
-        "contentHeight": 235,
+        "contentHeight": 226,
         "contentMaximized": true
     }
 }

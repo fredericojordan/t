@@ -6,15 +6,33 @@
     "battleListsOptions": {
         "0": {
             "battleListFilters": [
+                "hideNPCs",
+                "hidePlayers"
             ],
             "battleListSortOrder": [
                 "byAgeAscending",
                 "byAgeAscending"
             ],
-            "contentHeight": 406,
+            "contentHeight": 249,
             "contentMaximized": true,
             "isPartyView": false,
             "isPrimary": true,
+            "name": "",
+            "showFilters": false
+        },
+        "1": {
+            "battleListFilters": [
+                "hideNPCs",
+                "hideMonsters"
+            ],
+            "battleListSortOrder": [
+                "byAgeAscending",
+                "byAgeAscending"
+            ],
+            "contentHeight": 362,
+            "contentMaximized": true,
+            "isPartyView": false,
+            "isPrimary": false,
             "name": "",
             "showFilters": false
         },
@@ -52,7 +70,7 @@
     },
     "containersOptions": {
         "0": {
-            "contentHeight": 195,
+            "contentHeight": 84,
             "contentMaximized": true
         }
     },
@@ -128,7 +146,7 @@
         "chaseModeEnabled": false,
         "combatMode": 1,
         "controlButtonsVisible": false,
-        "minimapZoomLevel": 200,
+        "minimapZoomLevel": 100,
         "minimizeInventory": false
     },
     "sidebarWidgetsMangerOptions": {
@@ -145,6 +163,10 @@
             [
                 {
                     "instance": 0,
+                    "type": "battleList"
+                },
+                {
+                    "instance": 1,
                     "type": "battleList"
                 }
             ]

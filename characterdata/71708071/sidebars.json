@@ -57,10 +57,6 @@
         "0": {
             "contentHeight": 83,
             "contentMaximized": true
-        },
-        "1": {
-            "contentHeight": 47,
-            "contentMaximized": true
         }
     },
     "damageInputAnalyserWidgetOptions": {
@@ -148,10 +144,6 @@
                 },
                 {
                     "type": "skills"
-                },
-                {
-                    "instance": 1,
-                    "type": "container"
                 }
             ],
             [

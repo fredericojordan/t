@@ -14,7 +14,7 @@
                 "byNameAscending",
                 "byAgeAscending"
             ],
-            "contentHeight": 232,
+            "contentHeight": 166,
             "contentMaximized": true,
             "isPartyView": false,
             "isPrimary": true,
@@ -31,7 +31,7 @@
                 "byHitpointsAscending",
                 "byAgeAscending"
             ],
-            "contentHeight": 146,
+            "contentHeight": 289,
             "contentMaximized": true,
             "isPartyView": false,
             "isPrimary": false,
@@ -54,7 +54,7 @@
         }
     },
     "bestiaryTrackerWidgetOptions": {
-        "contentHeight": 121,
+        "contentHeight": 82,
         "contentMaximized": false,
         "sortKey": "completion",
         "sortOrder": "descending"
@@ -72,15 +72,15 @@
     },
     "containersOptions": {
         "0": {
-            "contentHeight": 155,
+            "contentHeight": 158,
             "contentMaximized": true
         },
         "1": {
-            "contentHeight": 75,
+            "contentHeight": 82,
             "contentMaximized": true
         },
         "2": {
-            "contentHeight": 94,
+            "contentHeight": 139,
             "contentMaximized": true
         },
         "3": {
@@ -93,7 +93,7 @@
         "contentMaximized": true
     },
     "deoptSearchWidgetOptions": {
-        "contentHeight": 383,
+        "contentHeight": 392,
         "contentMaximized": true,
         "showLockerOnly": true
     },
@@ -145,8 +145,8 @@
         ]
     },
     "preyWidgetOptions": {
-        "contentHeight": 72,
-        "contentMaximized": false
+        "contentHeight": 183,
+        "contentMaximized": true
     },
     "questTrackerWidgetOptions": {
         "contentHeight": 38,
@@ -162,9 +162,9 @@
     },
     "sidebarPanelsOptions": {
         "chaseModeEnabled": false,
-        "combatMode": 1,
-        "controlButtonsVisible": false,
-        "minimapZoomLevel": 0,
+        "combatMode": 3,
+        "controlButtonsVisible": true,
+        "minimapZoomLevel": 100,
         "minimizeInventory": false
     },
     "sidebarWidgetsMangerOptions": {
@@ -224,10 +224,10 @@
                     "type": "bestiaryTracker"
                 },
                 {
-                    "type": "prey"
+                    "type": "huntingSessionAnalyser"
                 },
                 {
-                    "type": "huntingSessionAnalyser"
+                    "type": "prey"
                 }
             ]
         ]
@@ -272,7 +272,7 @@
         "contentMaximized": true
     },
     "vipWidgetOptions": {
-        "contentHeight": 243,
+        "contentHeight": 192,
         "contentMaximized": true,
         "hideOfflineVips": true,
         "showGrouped": true,

@@ -12,7 +12,7 @@
                 "byAgeAscending",
                 "byAgeAscending"
             ],
-            "contentHeight": 330,
+            "contentHeight": 629,
             "contentMaximized": true,
             "isPartyView": false,
             "isPrimary": true,
@@ -65,14 +65,6 @@
             "contentMaximized": true
         },
         "3": {
-            "contentHeight": 84,
-            "contentMaximized": true
-        },
-        "4": {
-            "contentHeight": 70,
-            "contentMaximized": true
-        },
-        "5": {
             "contentHeight": 84,
             "contentMaximized": true
         }
@@ -155,7 +147,7 @@
     "sidebarPanelsOptions": {
         "chaseModeEnabled": false,
         "combatMode": 3,
-        "controlButtonsVisible": false,
+        "controlButtonsVisible": true,
         "minimapZoomLevel": 0,
         "minimizeInventory": false
     },
@@ -176,15 +168,7 @@
                     "type": "container"
                 },
                 {
-                    "instance": 4,
-                    "type": "container"
-                },
-                {
                     "instance": 0,
-                    "type": "container"
-                },
-                {
-                    "instance": 5,
                     "type": "container"
                 }
             ],

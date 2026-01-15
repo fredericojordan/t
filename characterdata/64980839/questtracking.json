@@ -4,8 +4,8 @@
     "options": {
         "autoTrackNewQuests": true,
         "autoUntrackCompletedQuests": true,
-        "showCompletedInQuestLog": false,
-        "showHiddenInQuestLog": false
+        "showCompletedInQuestLog": true,
+        "showHiddenInQuestLog": true
     },
     "pinnedQuestLines": [
     ],
@@ -60,6 +60,22 @@
         },
         {
             "id": 6452,
+            "isPinned": true
+        },
+        {
+            "id": 4206,
+            "isPinned": false
+        },
+        {
+            "id": 2906,
+            "isPinned": false
+        },
+        {
+            "id": 2907,
+            "isPinned": false
+        },
+        {
+            "id": 4305,
             "isPinned": false
         }
     ]

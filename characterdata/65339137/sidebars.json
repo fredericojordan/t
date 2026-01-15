@@ -34,10 +34,10 @@
         }
     },
     "bestiaryTrackerWidgetOptions": {
-        "contentHeight": 0,
+        "contentHeight": 501,
         "contentMaximized": true,
-        "sortKey": "name",
-        "sortOrder": "ascending"
+        "sortKey": "completion",
+        "sortOrder": "descending"
     },
     "bossTrackerWidgetOptions": {
         "contentHeight": 0,
@@ -45,7 +45,7 @@
         "sortKey": "remainingCooldown"
     },
     "bosstiaryTrackerWidgetOptions": {
-        "contentHeight": 0,
+        "contentHeight": 38,
         "contentMaximized": true,
         "sortKey": "name",
         "sortOrder": "ascending"
@@ -53,6 +53,10 @@
     "containersOptions": {
         "0": {
             "contentHeight": 195,
+            "contentMaximized": true
+        },
+        "1": {
+            "contentHeight": 158,
             "contentMaximized": true
         }
     },
@@ -125,10 +129,10 @@
         ]
     },
     "sidebarPanelsOptions": {
-        "chaseModeEnabled": true,
+        "chaseModeEnabled": false,
         "combatMode": 1,
-        "controlButtonsVisible": false,
-        "minimapZoomLevel": 200,
+        "controlButtonsVisible": true,
+        "minimapZoomLevel": 0,
         "minimizeInventory": false
     },
     "sidebarWidgetsMangerOptions": {
@@ -147,6 +151,9 @@
             [
                 {
                     "type": "skills"
+                },
+                {
+                    "type": "bestiaryTracker"
                 }
             ],
             [
@@ -161,10 +168,14 @@
         ]
     },
     "skillsWidgetOptions": {
-        "contentHeight": 382,
+        "contentHeight": 535,
         "contentMaximized": true,
         "defenceStatsVisible": true,
         "invisibleProgressBars": [
+            "distancefighting",
+            "axefighting",
+            "fistfighting",
+            "fishing"
         ],
         "miscStatsVisible": true,
         "offenceStatsVisible": true

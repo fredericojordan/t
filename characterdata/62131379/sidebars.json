@@ -11,7 +11,7 @@
                 "byAgeAscending",
                 "byAgeAscending"
             ],
-            "contentHeight": 38,
+            "contentHeight": 1061,
             "contentMaximized": true,
             "isPartyView": false,
             "isPrimary": true,
@@ -60,7 +60,7 @@
             "contentMaximized": true
         },
         "4": {
-            "contentHeight": 153,
+            "contentHeight": 97,
             "contentMaximized": true
         },
         "6": {
@@ -137,20 +137,16 @@
         ]
     },
     "sidebarPanelsOptions": {
-        "chaseModeEnabled": true,
-        "combatMode": 2,
-        "controlButtonsVisible": false,
-        "minimapZoomLevel": 100,
+        "chaseModeEnabled": false,
+        "combatMode": 3,
+        "controlButtonsVisible": true,
+        "minimapZoomLevel": 200,
         "minimizeInventory": false
     },
     "sidebarWidgetsMangerOptions": {
-        "leftSidebarCount": 0,
+        "leftSidebarCount": 1,
         "openWidgetsOrderPerSidebar": [
             [
-                {
-                    "instance": 0,
-                    "type": "battleList"
-                },
                 {
                     "instance": 0,
                     "type": "container"
@@ -166,6 +162,14 @@
                 {
                     "instance": 4,
                     "type": "container"
+                }
+            ],
+            [
+            ],
+            [
+                {
+                    "instance": 0,
+                    "type": "battleList"
                 }
             ]
         ]
