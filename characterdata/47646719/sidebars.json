@@ -52,15 +52,19 @@
     },
     "containersOptions": {
         "0": {
-            "contentHeight": 112,
+            "contentHeight": 195,
             "contentMaximized": true
         },
         "1": {
-            "contentHeight": 65,
+            "contentHeight": 97,
             "contentMaximized": true
         },
-        "4": {
-            "contentHeight": 156,
+        "2": {
+            "contentHeight": 121,
+            "contentMaximized": true
+        },
+        "3": {
+            "contentHeight": 47,
             "contentMaximized": true
         }
     },
@@ -148,13 +152,19 @@
                     "type": "container"
                 },
                 {
-                    "instance": 0,
+                    "instance": 3,
                     "type": "container"
                 },
                 {
-                    "instance": 4,
+                    "instance": 2,
                     "type": "container"
                 },
+                {
+                    "instance": 0,
+                    "type": "container"
+                }
+            ],
+            [
                 {
                     "type": "vip"
                 }
@@ -164,8 +174,6 @@
                     "instance": 0,
                     "type": "battleList"
                 }
-            ],
-            [
             ]
         ]
     },

@@ -52,19 +52,19 @@
     },
     "containersOptions": {
         "0": {
-            "contentHeight": 65,
+            "contentHeight": 144,
             "contentMaximized": true
         },
         "1": {
-            "contentHeight": 121,
+            "contentHeight": 117,
             "contentMaximized": true
         },
         "4": {
-            "contentHeight": 97,
+            "contentHeight": 156,
             "contentMaximized": true
         },
         "6": {
-            "contentHeight": 94,
+            "contentHeight": 120,
             "contentMaximized": true
         }
     },
@@ -73,7 +73,7 @@
         "contentMaximized": true
     },
     "deoptSearchWidgetOptions": {
-        "contentHeight": 0,
+        "contentHeight": 392,
         "contentMaximized": true,
         "showLockerOnly": false
     },
@@ -165,6 +165,9 @@
                 }
             ],
             [
+                {
+                    "type": "vip"
+                }
             ],
             [
                 {
@@ -209,7 +212,7 @@
         "contentMaximized": true
     },
     "vipWidgetOptions": {
-        "contentHeight": 0,
+        "contentHeight": 1061,
         "contentMaximized": true,
         "hideOfflineVips": false,
         "showGrouped": false,

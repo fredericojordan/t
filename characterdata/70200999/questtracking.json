@@ -11,7 +11,27 @@
     ],
     "trackedQuests": [
         {
-            "id": 6667,
+            "id": 6608,
+            "isPinned": false
+        },
+        {
+            "id": 1995,
+            "isPinned": false
+        },
+        {
+            "id": 1996,
+            "isPinned": false
+        },
+        {
+            "id": 1997,
+            "isPinned": false
+        },
+        {
+            "id": 1998,
+            "isPinned": false
+        },
+        {
+            "id": 1999,
             "isPinned": false
         }
     ]

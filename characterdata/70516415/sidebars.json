@@ -31,7 +31,7 @@
                 "byHitpointsAscending",
                 "byAgeAscending"
             ],
-            "contentHeight": 289,
+            "contentHeight": 129,
             "contentMaximized": true,
             "isPartyView": false,
             "isPrimary": false,
@@ -84,7 +84,7 @@
             "contentMaximized": true
         },
         "3": {
-            "contentHeight": 65,
+            "contentHeight": 98,
             "contentMaximized": true
         }
     },
@@ -145,7 +145,7 @@
         ]
     },
     "preyWidgetOptions": {
-        "contentHeight": 183,
+        "contentHeight": 293,
         "contentMaximized": true
     },
     "questTrackerWidgetOptions": {
@@ -164,7 +164,7 @@
         "chaseModeEnabled": false,
         "combatMode": 3,
         "controlButtonsVisible": true,
-        "minimapZoomLevel": 100,
+        "minimapZoomLevel": 0,
         "minimizeInventory": false
     },
     "sidebarWidgetsMangerOptions": {
@@ -272,7 +272,7 @@
         "contentMaximized": true
     },
     "vipWidgetOptions": {
-        "contentHeight": 192,
+        "contentHeight": 340,
         "contentMaximized": true,
         "hideOfflineVips": true,
         "showGrouped": true,

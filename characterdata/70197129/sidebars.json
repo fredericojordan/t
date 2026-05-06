@@ -72,15 +72,11 @@
     },
     "containersOptions": {
         "0": {
-            "contentHeight": 171,
-            "contentMaximized": true
-        },
-        "1": {
-            "contentHeight": 119,
+            "contentHeight": 195,
             "contentMaximized": true
         },
         "3": {
-            "contentHeight": 65,
+            "contentHeight": 109,
             "contentMaximized": true
         }
     },
@@ -145,7 +141,7 @@
         "contentMaximized": true
     },
     "questTrackerWidgetOptions": {
-        "contentHeight": 147,
+        "contentHeight": 187,
         "contentMaximized": true
     },
     "sidebarPanelsMangerOptions": {
@@ -155,8 +151,8 @@
     "sidebarPanelsOptions": {
         "chaseModeEnabled": false,
         "combatMode": 3,
-        "controlButtonsVisible": false,
-        "minimapZoomLevel": 100,
+        "controlButtonsVisible": true,
+        "minimapZoomLevel": 200,
         "minimizeInventory": false
     },
     "sidebarWidgetsMangerOptions": {
@@ -169,14 +165,6 @@
                 },
                 {
                     "instance": 0,
-                    "type": "container"
-                },
-                {
-                    "instance": 1,
-                    "type": "container"
-                },
-                {
-                    "instance": 2,
                     "type": "container"
                 }
             ],
@@ -249,7 +237,7 @@
         "contentMaximized": true
     },
     "vipWidgetOptions": {
-        "contentHeight": 271,
+        "contentHeight": 388,
         "contentMaximized": true,
         "hideOfflineVips": true,
         "showGrouped": true,

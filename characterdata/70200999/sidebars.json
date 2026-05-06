@@ -13,7 +13,7 @@
                 "byAgeAscending",
                 "byAgeAscending"
             ],
-            "contentHeight": 249,
+            "contentHeight": 475,
             "contentMaximized": true,
             "isPartyView": false,
             "isPrimary": true,
@@ -23,17 +23,18 @@
         "1": {
             "battleListFilters": [
                 "hideNPCs",
-                "hideMonsters"
+                "hideMonsters",
+                "hidePlayerSummons"
             ],
             "battleListSortOrder": [
                 "byAgeAscending",
                 "byAgeAscending"
             ],
-            "contentHeight": 362,
+            "contentHeight": 147,
             "contentMaximized": true,
             "isPartyView": false,
             "isPrimary": false,
-            "name": "",
+            "name": "PCs",
             "showFilters": false
         },
         "253": {
@@ -70,7 +71,7 @@
     },
     "containersOptions": {
         "0": {
-            "contentHeight": 84,
+            "contentHeight": 121,
             "contentMaximized": true
         }
     },
@@ -144,8 +145,8 @@
     },
     "sidebarPanelsOptions": {
         "chaseModeEnabled": false,
-        "combatMode": 1,
-        "controlButtonsVisible": false,
+        "combatMode": 3,
+        "controlButtonsVisible": true,
         "minimapZoomLevel": 100,
         "minimizeInventory": false
     },
@@ -159,6 +160,9 @@
                 }
             ],
             [
+                {
+                    "type": "skills"
+                }
             ],
             [
                 {
@@ -173,7 +177,7 @@
         ]
     },
     "skillsWidgetOptions": {
-        "contentHeight": 0,
+        "contentHeight": 571,
         "contentMaximized": true,
         "defenceStatsVisible": true,
         "invisibleProgressBars": [
@@ -207,7 +211,7 @@
         "contentMaximized": true
     },
     "vipWidgetOptions": {
-        "contentHeight": 0,
+        "contentHeight": 200,
         "contentMaximized": true,
         "hideOfflineVips": false,
         "showGrouped": false,

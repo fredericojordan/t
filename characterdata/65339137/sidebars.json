@@ -11,7 +11,7 @@
                 "byAgeAscending",
                 "byAgeAscending"
             ],
-            "contentHeight": 262,
+            "contentHeight": 372,
             "contentMaximized": true,
             "isPartyView": false,
             "isPrimary": true,
@@ -34,7 +34,7 @@
         }
     },
     "bestiaryTrackerWidgetOptions": {
-        "contentHeight": 501,
+        "contentHeight": 534,
         "contentMaximized": true,
         "sortKey": "completion",
         "sortOrder": "descending"
@@ -56,7 +56,11 @@
             "contentMaximized": true
         },
         "1": {
-            "contentHeight": 158,
+            "contentHeight": 84,
+            "contentMaximized": true
+        },
+        "2": {
+            "contentHeight": 195,
             "contentMaximized": true
         }
     },
@@ -114,6 +118,7 @@
         "contentHeight": 0,
         "contentMaximized": true,
         "pendingLevelSpecialPopups": [
+            20
         ]
     },
     "preyWidgetOptions": {
@@ -129,10 +134,10 @@
         ]
     },
     "sidebarPanelsOptions": {
-        "chaseModeEnabled": false,
+        "chaseModeEnabled": true,
         "combatMode": 1,
-        "controlButtonsVisible": true,
-        "minimapZoomLevel": 0,
+        "controlButtonsVisible": false,
+        "minimapZoomLevel": 100,
         "minimizeInventory": false
     },
     "sidebarWidgetsMangerOptions": {
@@ -146,14 +151,18 @@
                 {
                     "instance": 1,
                     "type": "container"
+                },
+                {
+                    "instance": 2,
+                    "type": "container"
                 }
             ],
             [
                 {
-                    "type": "skills"
+                    "type": "bestiaryTracker"
                 },
                 {
-                    "type": "bestiaryTracker"
+                    "type": "skills"
                 }
             ],
             [
@@ -168,7 +177,7 @@
         ]
     },
     "skillsWidgetOptions": {
-        "contentHeight": 535,
+        "contentHeight": 508,
         "contentMaximized": true,
         "defenceStatsVisible": true,
         "invisibleProgressBars": [
@@ -206,7 +215,7 @@
         "contentMaximized": true
     },
     "vipWidgetOptions": {
-        "contentHeight": 509,
+        "contentHeight": 670,
         "contentMaximized": true,
         "hideOfflineVips": true,
         "showGrouped": true,

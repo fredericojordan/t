@@ -11,10 +11,6 @@
     ],
     "trackedQuests": [
         {
-            "id": 1192,
-            "isPinned": false
-        },
-        {
             "id": 1241,
             "isPinned": false
         },
@@ -31,20 +27,16 @@
             "isPinned": false
         },
         {
-            "id": 4705,
-            "isPinned": false
-        },
-        {
             "id": 5129,
             "isPinned": false
         },
         {
             "id": 655,
-            "isPinned": false
+            "isPinned": true
         },
         {
             "id": 581,
-            "isPinned": false
+            "isPinned": true
         },
         {
             "id": 4255,
@@ -59,10 +51,6 @@
             "isPinned": false
         },
         {
-            "id": 6452,
-            "isPinned": true
-        },
-        {
             "id": 4206,
             "isPinned": false
         },
@@ -75,8 +63,28 @@
             "isPinned": false
         },
         {
-            "id": 4305,
+            "id": 3041,
             "isPinned": false
+        },
+        {
+            "id": 4663,
+            "isPinned": false
+        },
+        {
+            "id": 4207,
+            "isPinned": false
+        },
+        {
+            "id": 4292,
+            "isPinned": true
+        },
+        {
+            "id": 5498,
+            "isPinned": false
+        },
+        {
+            "id": 3718,
+            "isPinned": true
         }
     ]
 }

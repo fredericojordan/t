@@ -287,6 +287,58 @@
             "summon": {
                 "id": 0
             }
+        },
+        {
+            "mount": {
+                "color": {
+                    "detail": 0,
+                    "head": 0,
+                    "legs": 0,
+                    "torso": 0
+                },
+                "id": 402
+            },
+            "name": "Preset",
+            "outfit": {
+                "color": {
+                    "detail": 126,
+                    "head": 3,
+                    "legs": 114,
+                    "torso": 129
+                },
+                "firstAddOn": true,
+                "id": 138,
+                "secondAddOn": false
+            },
+            "summon": {
+                "id": 0
+            }
+        },
+        {
+            "mount": {
+                "color": {
+                    "detail": 0,
+                    "head": 0,
+                    "legs": 0,
+                    "torso": 0
+                },
+                "id": 370
+            },
+            "name": "Preset",
+            "outfit": {
+                "color": {
+                    "detail": 132,
+                    "head": 128,
+                    "legs": 0,
+                    "torso": 91
+                },
+                "firstAddOn": true,
+                "id": 138,
+                "secondAddOn": false
+            },
+            "summon": {
+                "id": 0
+            }
         }
     ]
 }

@@ -12,7 +12,7 @@
                 "byAgeAscending",
                 "byAgeAscending"
             ],
-            "contentHeight": 629,
+            "contentHeight": 566,
             "contentMaximized": true,
             "isPartyView": false,
             "isPrimary": true,
@@ -53,11 +53,11 @@
     },
     "containersOptions": {
         "0": {
-            "contentHeight": 47,
+            "contentHeight": 70,
             "contentMaximized": true
         },
         "1": {
-            "contentHeight": 65,
+            "contentHeight": 115,
             "contentMaximized": true
         },
         "2": {
@@ -134,7 +134,7 @@
     },
     "questTrackerWidgetOptions": {
         "contentHeight": 286,
-        "contentMaximized": false
+        "contentMaximized": true
     },
     "sidebarPanelsMangerOptions": {
         "panelsOrder": [
@@ -146,9 +146,9 @@
     },
     "sidebarPanelsOptions": {
         "chaseModeEnabled": false,
-        "combatMode": 3,
+        "combatMode": 1,
         "controlButtonsVisible": true,
-        "minimapZoomLevel": 0,
+        "minimapZoomLevel": 100,
         "minimizeInventory": false
     },
     "sidebarWidgetsMangerOptions": {
@@ -192,7 +192,7 @@
         ]
     },
     "skillsWidgetOptions": {
-        "contentHeight": 485,
+        "contentHeight": 527,
         "contentMaximized": true,
         "defenceStatsVisible": true,
         "invisibleProgressBars": [
@@ -232,7 +232,7 @@
         "contentMaximized": true
     },
     "vipWidgetOptions": {
-        "contentHeight": 337,
+        "contentHeight": 476,
         "contentMaximized": true,
         "hideOfflineVips": true,
         "showGrouped": true,

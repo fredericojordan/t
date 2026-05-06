@@ -53,7 +53,7 @@
         }
     },
     "bestiaryTrackerWidgetOptions": {
-        "contentHeight": 0,
+        "contentHeight": 38,
         "contentMaximized": true,
         "sortKey": "name",
         "sortOrder": "ascending"
@@ -71,7 +71,7 @@
     },
     "containersOptions": {
         "0": {
-            "contentHeight": 88,
+            "contentHeight": 109,
             "contentMaximized": true
         },
         "1": {
@@ -87,7 +87,7 @@
             "contentMaximized": true
         },
         "5": {
-            "contentHeight": 84,
+            "contentHeight": 155,
             "contentMaximized": true
         }
     },
@@ -148,7 +148,7 @@
         ]
     },
     "preyWidgetOptions": {
-        "contentHeight": 0,
+        "contentHeight": 293,
         "contentMaximized": true
     },
     "questTrackerWidgetOptions": {
@@ -194,6 +194,9 @@
             [
                 {
                     "type": "skills"
+                },
+                {
+                    "type": "prey"
                 }
             ],
             [
@@ -212,7 +215,7 @@
         ]
     },
     "skillsWidgetOptions": {
-        "contentHeight": 510,
+        "contentHeight": 538,
         "contentMaximized": true,
         "defenceStatsVisible": true,
         "invisibleProgressBars": [

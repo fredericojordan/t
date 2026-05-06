@@ -127,7 +127,7 @@
     },
     "sidebarPanelsOptions": {
         "chaseModeEnabled": false,
-        "combatMode": 1,
+        "combatMode": 3,
         "controlButtonsVisible": true,
         "minimapZoomLevel": 0,
         "minimizeInventory": false
@@ -136,6 +136,10 @@
         "leftSidebarCount": 1,
         "openWidgetsOrderPerSidebar": [
             [
+                {
+                    "instance": 0,
+                    "type": "container"
+                }
             ],
             [
                 {
@@ -157,7 +161,7 @@
         ]
     },
     "skillsWidgetOptions": {
-        "contentHeight": 527,
+        "contentHeight": 521,
         "contentMaximized": true,
         "defenceStatsVisible": true,
         "invisibleProgressBars": [

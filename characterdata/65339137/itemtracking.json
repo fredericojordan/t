@@ -2,19 +2,29 @@
     "autoTrackAboveValue": 0,
     "trackedItems": [
         {
-            "dropCount": 13,
+            "dropCount": 0,
+            "objectType": 5878,
+            "recordStartTimestamp": 1773677893
+        },
+        {
+            "dropCount": 8,
+            "objectType": 5897,
+            "recordStartTimestamp": 1724687437
+        },
+        {
+            "dropCount": 0,
+            "objectType": 5896,
+            "recordStartTimestamp": 1770391653
+        },
+        {
+            "dropCount": 49,
             "objectType": 5902,
             "recordStartTimestamp": 1764454154
         },
         {
-            "dropCount": 79,
+            "dropCount": 80,
             "objectType": 5890,
             "recordStartTimestamp": 1724687394
-        },
-        {
-            "dropCount": 3,
-            "objectType": 5897,
-            "recordStartTimestamp": 1724687437
         }
     ]
 }

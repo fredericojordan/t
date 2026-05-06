@@ -1,11 +1,13 @@
 {
     "customSalePrices": {
+        "28486": 500000
     },
     "primaryLootValueSources": {
         "11492": "market",
         "23986": "market",
         "3049": "market",
         "3053": "market",
+        "3422": "market",
         "50182": "market"
     }
 }
